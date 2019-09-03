@@ -1,0 +1,1036 @@
+Name|Team|Position|Height|Weight|Age|Address1|Address2
+Adam Donachie|BAL|Catcher|74|180|22.99|333 West Camden Street|Baltimore, MD 21201
+Paul Bako|BAL|Catcher|74|215|34.69|333 West Camden Street|Baltimore, MD 21201
+Ramon Hernandez|BAL|Catcher|72|210|30.78|333 West Camden Street|Baltimore, MD 21201
+Kevin Millar|BAL|First Baseman|72|210|35.43|333 West Camden Street|Baltimore, MD 21201
+Chris Gomez|BAL|First Baseman|73|188|35.71|333 West Camden Street|Baltimore, MD 21201
+Brian Roberts|BAL|Second Baseman|69|176|29.39|333 West Camden Street|Baltimore, MD 21201
+Miguel Tejada|BAL|Shortstop|69|209|30.77|333 West Camden Street|Baltimore, MD 21201
+Melvin Mora|BAL|Third Baseman|71|200|35.07|333 West Camden Street|Baltimore, MD 21201
+Aubrey Huff|BAL|Third Baseman|76|231|30.19|333 West Camden Street|Baltimore, MD 21201
+Adam Stern|BAL|Outfielder|71|180|27.05|333 West Camden Street|Baltimore, MD 21201
+Jeff Fiorentino|BAL|Outfielder|73|188|23.88|333 West Camden Street|Baltimore, MD 21201
+Freddie Bynum|BAL|Outfielder|73|180|26.96|333 West Camden Street|Baltimore, MD 21201
+Nick Markakis|BAL|Outfielder|74|185|23.29|333 West Camden Street|Baltimore, MD 21201
+Brandon Fahey|BAL|Outfielder|74|160|26.11|333 West Camden Street|Baltimore, MD 21201
+Corey Patterson|BAL|Outfielder|69|180|27.55|333 West Camden Street|Baltimore, MD 21201
+Jay Payton|BAL|Outfielder|70|185|34.27|333 West Camden Street|Baltimore, MD 21201
+Jay Gibbons|BAL|Designated Hitter|72|197|30.0|333 West Camden Street|Baltimore, MD 21201
+Erik Bedard|BAL|Starting Pitcher|73|189|27.99|333 West Camden Street|Baltimore, MD 21201
+Hayden Penn|BAL|Starting Pitcher|75|185|22.38|333 West Camden Street|Baltimore, MD 21201
+Adam Loewen|BAL|Starting Pitcher|78|219|22.89|333 West Camden Street|Baltimore, MD 21201
+Daniel Cabrera|BAL|Starting Pitcher|79|230|25.76|333 West Camden Street|Baltimore, MD 21201
+Steve Trachsel|BAL|Starting Pitcher|76|205|36.33|333 West Camden Street|Baltimore, MD 21201
+Jaret Wright|BAL|Starting Pitcher|74|230|31.17|333 West Camden Street|Baltimore, MD 21201
+Kris Benson|BAL|Starting Pitcher|76|195|32.31|333 West Camden Street|Baltimore, MD 21201
+Scott Williamson|BAL|Relief Pitcher|72|180|31.03|333 West Camden Street|Baltimore, MD 21201
+John Parrish|BAL|Relief Pitcher|71|192|29.26|333 West Camden Street|Baltimore, MD 21201
+Danys Baez|BAL|Relief Pitcher|75|225|29.47|333 West Camden Street|Baltimore, MD 21201
+Chad Bradford|BAL|Relief Pitcher|77|203|32.46|333 West Camden Street|Baltimore, MD 21201
+Jamie Walker|BAL|Relief Pitcher|74|195|35.67|333 West Camden Street|Baltimore, MD 21201
+Brian Burres|BAL|Relief Pitcher|73|182|25.89|333 West Camden Street|Baltimore, MD 21201
+Kurt Birkins|BAL|Relief Pitcher|74|188|26.55|333 West Camden Street|Baltimore, MD 21201
+James Hoey|BAL|Relief Pitcher|78|200|24.17|333 West Camden Street|Baltimore, MD 21201
+Sendy Rleal|BAL|Relief Pitcher|73|180|26.69|333 West Camden Street|Baltimore, MD 21201
+Chris Ray|BAL|Relief Pitcher|75|200|25.13|333 West Camden Street|Baltimore, MD 21201
+Jeremy Guthrie|BAL|Relief Pitcher|73|200|27.9|333 West Camden Street|Baltimore, MD 21201
+A.J. Pierzynski|CWS|Catcher|75|245|30.17|333 West 35th Street|Chicago, IL 60616
+Toby Hall|CWS|Catcher|75|240|31.36|333 West 35th Street|Chicago, IL 60616
+Paul Konerko|CWS|First Baseman|74|215|30.99|333 West 35th Street|Chicago, IL 60616
+Tadahito Iguchi|CWS|Second Baseman|69|185|32.24|333 West 35th Street|Chicago, IL 60616
+Juan Uribe|CWS|Shortstop|71|175|27.61|333 West 35th Street|Chicago, IL 60616
+Alex Cintron|CWS|Shortstop|74|199|28.2|333 West 35th Street|Chicago, IL 60616
+Joe Crede|CWS|Third Baseman|73|200|28.85|333 West 35th Street|Chicago, IL 60616
+Josh Fields|CWS|Third Baseman|73|215|24.21|333 West 35th Street|Chicago, IL 60616
+Ryan Sweeney|CWS|Outfielder|76|200|22.02|333 West 35th Street|Chicago, IL 60616
+Brian N. Anderson|CWS|Outfielder|74|205|24.97|333 West 35th Street|Chicago, IL 60616
+Luis Terrero|CWS|Outfielder|74|206|26.78|333 West 35th Street|Chicago, IL 60616
+Pablo Ozuna|CWS|Outfielder|70|186|32.51|333 West 35th Street|Chicago, IL 60616
+Scott Podsednik|CWS|Outfielder|72|188|30.95|333 West 35th Street|Chicago, IL 60616
+Jermaine Dye|CWS|Outfielder|77|220|33.09|333 West 35th Street|Chicago, IL 60616
+Darin Erstad|CWS|Outfielder|74|210|32.74|333 West 35th Street|Chicago, IL 60616
+Rob Mackowiak|CWS|Outfielder|70|195|30.69|333 West 35th Street|Chicago, IL 60616
+Jim Thome|CWS|Designated Hitter|76|244|36.51|333 West 35th Street|Chicago, IL 60616
+Jerry Owens|CWS|Designated Hitter|75|195|26.03|333 West 35th Street|Chicago, IL 60616
+Charlie Haeger|CWS|Starting Pitcher|73|200|23.45|333 West 35th Street|Chicago, IL 60616
+Heath Phillips|CWS|Starting Pitcher|75|200|24.94|333 West 35th Street|Chicago, IL 60616
+Gavin Floyd|CWS|Starting Pitcher|76|212|24.09|333 West 35th Street|Chicago, IL 60616
+Jose Contreras|CWS|Starting Pitcher|76|224|35.23|333 West 35th Street|Chicago, IL 60616
+Jon Garland|CWS|Starting Pitcher|78|210|27.43|333 West 35th Street|Chicago, IL 60616
+Javier Vazquez|CWS|Starting Pitcher|74|205|30.6|333 West 35th Street|Chicago, IL 60616
+Mark Buehrle|CWS|Starting Pitcher|74|220|27.94|333 West 35th Street|Chicago, IL 60616
+Mike MacDougal|CWS|Relief Pitcher|76|195|29.99|333 West 35th Street|Chicago, IL 60616
+David Aardsma|CWS|Relief Pitcher|77|200|25.17|333 West 35th Street|Chicago, IL 60616
+Andrew Sisco|CWS|Relief Pitcher|81|260|24.13|333 West 35th Street|Chicago, IL 60616
+Matt Thornton|CWS|Relief Pitcher|78|228|30.46|333 West 35th Street|Chicago, IL 60616
+Bobby Jenks|CWS|Relief Pitcher|75|270|25.96|333 West 35th Street|Chicago, IL 60616
+Boone Logan|CWS|Relief Pitcher|77|200|22.55|333 West 35th Street|Chicago, IL 60616
+Sean Tracey|CWS|Relief Pitcher|75|210|26.29|333 West 35th Street|Chicago, IL 60616
+Nick Masset|CWS|Relief Pitcher|76|190|24.79|333 West 35th Street|Chicago, IL 60616
+Jose Molina|ANA|Catcher|74|220|31.74||
+Jeff Mathis|ANA|Catcher|72|180|23.92||
+Mike Napoli|ANA|Catcher|72|205|25.33||
+Casey Kotchman|ANA|First Baseman|75|210|24.02||
+Kendry Morales|ANA|First Baseman|73|220|23.7||
+Shea Hillenbrand|ANA|First Baseman|73|211|31.59||
+Robb Quinlan|ANA|First Baseman|73|200|29.95||
+Howie Kendrick|ANA|First Baseman|70|180|23.64||
+Orlando Cabrera|ANA|Shortstop|70|190|32.33||
+Erick Aybar|ANA|Shortstop|70|170|23.13||
+Dallas McPherson|ANA|Third Baseman|76|230|26.6||
+Maicer Izturis|ANA|Third Baseman|68|155|26.46||
+Reggie Willits|ANA|Outfielder|71|185|25.75||
+Tommy Murphy|ANA|Outfielder|72|185|27.51||
+Terry Evans|ANA|Outfielder|75|200|25.11||
+Gary Matthews Jr.|ANA|Outfielder|75|225|32.51||
+Garret Anderson|ANA|Outfielder|75|225|34.67||
+Vladimir Guerrero|ANA|Outfielder|75|220|31.06||
+Chone Figgins|ANA|Outfielder|68|160|29.1||
+Juan Rivera|ANA|Outfielder|74|205|28.66||
+John Lackey|ANA|Starting Pitcher|78|235|28.35||
+Bartolo Colon|ANA|Starting Pitcher|71|250|33.77||
+Kelvim Escobar|ANA|Starting Pitcher|73|210|30.89||
+Dustin Moseley|ANA|Starting Pitcher|76|190|37.74||
+Ervin Santana|ANA|Starting Pitcher|74|160|24.14||
+Joe Saunders|ANA|Starting Pitcher|74|200|25.71||
+Jered Weaver|ANA|Starting Pitcher|79|205|24.41||
+Chris Resop|ANA|Relief Pitcher|75|222|24.32||
+Phil Seibel|ANA|Relief Pitcher|73|195|28.09||
+Justin Speier|ANA|Relief Pitcher|76|205|33.31||
+Darren Oliver|ANA|Relief Pitcher|74|220|36.4||
+Hector Carrasco|ANA|Relief Pitcher|74|220|37.36||
+Scot Shields|ANA|Relief Pitcher|73|170|31.61||
+Francisco Rodriguez|ANA|Relief Pitcher|72|185|25.14||
+Greg Jones|ANA|Relief Pitcher|74|195|30.29||
+Doug Mirabelli|BOS|Catcher|73|220|36.37||
+Jason Varitek|BOS|Catcher|74|230|34.89||
+George Kottaras|BOS|Catcher|72|180|23.79||
+Kevin Youkilis|BOS|First Baseman|73|220|27.96||
+Dustin Pedroia|BOS|Second Baseman|69|180|23.54||
+Alex Cora|BOS|Shortstop|72|180|31.37||
+Julio Lugo|BOS|Shortstop|73|170|31.29||
+Mike Lowell|BOS|Third Baseman|75|210|33.01||
+Wily Mo Pe?a|BOS|Outfielder|75|215|25.1||
+J.D. Drew|BOS|Outfielder|73|200|31.28||
+Manny Ramirez|BOS|Outfielder|72|213|34.75||
+Brandon Moss|BOS|Outfielder|72|180|23.46||
+David Murphy|BOS|Outfielder|76|192|25.37||
+Eric Hinske|BOS|Outfielder|74|235|29.57||
+Coco Crisp|BOS|Outfielder|72|185|27.33||
+David Ortiz|BOS|Designated Hitter|76|230|31.28||
+Curt Schilling|BOS|Starting Pitcher|77|235|40.29||
+Tim Wakefield|BOS|Starting Pitcher|74|210|40.58||
+Josh Beckett|BOS|Starting Pitcher|77|222|26.79||
+Matt Clement|BOS|Starting Pitcher|75|210|32.55||
+Jonathan Papelbon|BOS|Starting Pitcher|76|230|26.27||
+Kyle Snyder|BOS|Starting Pitcher|80|220|29.47||
+Devern Hansack|BOS|Starting Pitcher|74|180|29.07||
+Jon Lester|BOS|Starting Pitcher|74|190|23.15||
+Kason Gabbard|BOS|Starting Pitcher|75|200|24.9||
+Craig Hansen|BOS|Relief Pitcher|78|210|23.29||
+Hideki Okajima|BOS|Relief Pitcher|73|194|31.18||
+Craig Breslow|BOS|Relief Pitcher|73|180|26.56||
+Manny Delcarmen|BOS|Relief Pitcher|74|190|25.03||
+Brendan Donnelly|BOS|Relief Pitcher|75|240|35.66||
+Javier Lopez|BOS|Relief Pitcher|76|200|29.64||
+J.C. Romero|BOS|Relief Pitcher|71|198|30.74||
+Joel Pineiro|BOS|Relief Pitcher|73|200|28.43||
+Julian Tavarez|BOS|Relief Pitcher|74|195|33.77||
+Mike Timlin|BOS|Relief Pitcher|76|210|40.97||
+Nick DeBarr|BOS|Relief Pitcher|76|220|23.52||
+Victor Martinez|CLE|Catcher|74|190|28.19|2401 Ontario Street|Cleveland, OH 44115
+Kelly Shoppach|CLE|Catcher|73|210|26.84|2401 Ontario Street|Cleveland, OH 44115
+Ryan Garko|CLE|First Baseman|74|225|26.16|2401 Ontario Street|Cleveland, OH 44115
+Joe Inglett|CLE|Second Baseman|70|180|28.67|2401 Ontario Street|Cleveland, OH 44115
+Josh Barfield|CLE|Second Baseman|72|185|24.2|2401 Ontario Street|Cleveland, OH 44115
+Hector Luna|CLE|Second Baseman|73|170|27.08|2401 Ontario Street|Cleveland, OH 44115
+Jhonny Peralta|CLE|Shortstop|73|185|24.76|2401 Ontario Street|Cleveland, OH 44115
+Andy Marte|CLE|Third Baseman|73|185|23.36|2401 Ontario Street|Cleveland, OH 44115
+Ben Francisco|CLE|Outfielder|73|180|25.35|2401 Ontario Street|Cleveland, OH 44115
+Shin-Soo Choo|CLE|Outfielder|71|178|24.63|2401 Ontario Street|Cleveland, OH 44115
+Franklin Gutierrez|CLE|Outfielder|74|175|24.02|2401 Ontario Street|Cleveland, OH 44115
+Grady Sizemore|CLE|Outfielder|74|200|24.58|2401 Ontario Street|Cleveland, OH 44115
+Jason Michaels|CLE|Outfielder|72|204|30.82|2401 Ontario Street|Cleveland, OH 44115
+Trot Nixon|CLE|Outfielder|74|211|32.89|2401 Ontario Street|Cleveland, OH 44115
+David Dellucci|CLE|Outfielder|71|190|33.33|2401 Ontario Street|Cleveland, OH 44115
+Casey Blake|CLE|Outfielder|74|210|33.52|2401 Ontario Street|Cleveland, OH 44115
+Travis Hafner|CLE|Designated Hitter|75|240|29.74|2401 Ontario Street|Cleveland, OH 44115
+Paul Byrd|CLE|Starting Pitcher|73|190|36.24|2401 Ontario Street|Cleveland, OH 44115
+Cliff Lee|CLE|Starting Pitcher|75|190|28.5|2401 Ontario Street|Cleveland, OH 44115
+Jake Westbrook|CLE|Starting Pitcher|75|185|29.42|2401 Ontario Street|Cleveland, OH 44115
+C.C. Sabathia|CLE|Starting Pitcher|79|290|26.61|2401 Ontario Street|Cleveland, OH 44115
+Jeremy Sowers|CLE|Starting Pitcher|73|175|23.79|2401 Ontario Street|Cleveland, OH 44115
+Rafael Perez|CLE|Relief Pitcher|75|185|24.96|2401 Ontario Street|Cleveland, OH 44115
+Brian Slocum|CLE|Relief Pitcher|76|200|25.93|2401 Ontario Street|Cleveland, OH 44115
+Edward Mujica|CLE|Relief Pitcher|74|220|22.81|2401 Ontario Street|Cleveland, OH 44115
+Fernando Cabrera|CLE|Relief Pitcher|76|170|25.29|2401 Ontario Street|Cleveland, OH 44115
+Tom Mastny|CLE|Relief Pitcher|78|220|26.07|2401 Ontario Street|Cleveland, OH 44115
+Juan Lara|CLE|Relief Pitcher|74|190|26.09|2401 Ontario Street|Cleveland, OH 44115
+Fausto Carmona|CLE|Relief Pitcher|76|220|23.23|2401 Ontario Street|Cleveland, OH 44115
+Aaron Fultz|CLE|Relief Pitcher|72|205|33.49|2401 Ontario Street|Cleveland, OH 44115
+Rafael Betancourt|CLE|Relief Pitcher|74|200|31.84|2401 Ontario Street|Cleveland, OH 44115
+Roberto Hernandez|CLE|Relief Pitcher|76|250|42.3|2401 Ontario Street|Cleveland, OH 44115
+Joe Borowski|CLE|Relief Pitcher|74|225|35.82|2401 Ontario Street|Cleveland, OH 44115
+Matt Miller|CLE|Relief Pitcher|75|215|35.27|2401 Ontario Street|Cleveland, OH 44115
+Jason Davis|CLE|Relief Pitcher|78|210|26.81|2401 Ontario Street|Cleveland, OH 44115
+Mike Piazza|OAK|Catcher|75|215|38.49|7000 Coliseum Way|Oakland, CA 94621
+Jason Kendall|OAK|Catcher|72|195|32.68|7000 Coliseum Way|Oakland, CA 94621
+Adam Melhuse|OAK|Catcher|74|200|34.93|7000 Coliseum Way|Oakland, CA 94621
+Nick Swisher|OAK|First Baseman|72|194|26.26|7000 Coliseum Way|Oakland, CA 94621
+Dan Johnson|OAK|First Baseman|74|220|27.56|7000 Coliseum Way|Oakland, CA 94621
+Donald Murphy|OAK|Second Baseman|70|180|23.98|7000 Coliseum Way|Oakland, CA 94621
+Mark Ellis|OAK|Second Baseman|71|180|29.73|7000 Coliseum Way|Oakland, CA 94621
+Marco Scutaro|OAK|Shortstop|70|170|31.33|7000 Coliseum Way|Oakland, CA 94621
+Bobby Crosby|OAK|Shortstop|75|195|27.13|7000 Coliseum Way|Oakland, CA 94621
+Mark Kiger|OAK|Shortstop|71|180|26.75|7000 Coliseum Way|Oakland, CA 94621
+Antonio Perez|OAK|Third Baseman|71|170|27.09|7000 Coliseum Way|Oakland, CA 94621
+Eric Chavez|OAK|Third Baseman|73|206|29.23|7000 Coliseum Way|Oakland, CA 94621
+Milton Bradley|OAK|Outfielder|72|205|28.88|7000 Coliseum Way|Oakland, CA 94621
+Shannon Stewart|OAK|Outfielder|71|200|33.01|7000 Coliseum Way|Oakland, CA 94621
+Bobby Kielty|OAK|Outfielder|73|225|30.57|7000 Coliseum Way|Oakland, CA 94621
+Mark Kotsay|OAK|Outfielder|72|201|31.24|7000 Coliseum Way|Oakland, CA 94621
+Ryan Goleski|OAK|Outfielder|75|225|24.95|7000 Coliseum Way|Oakland, CA 94621
+Jeremy Brown|OAK|Designated Hitter|70|226|27.35|7000 Coliseum Way|Oakland, CA 94621
+Jason Windsor|OAK|Starting Pitcher|74|233|24.62|7000 Coliseum Way|Oakland, CA 94621
+David Shafer|OAK|Starting Pitcher|74|180|24.98|7000 Coliseum Way|Oakland, CA 94621
+Joe Blanton|OAK|Starting Pitcher|75|225|26.22|7000 Coliseum Way|Oakland, CA 94621
+Brad Halsey|OAK|Starting Pitcher|73|180|26.04|7000 Coliseum Way|Oakland, CA 94621
+Dan Haren|OAK|Starting Pitcher|77|220|26.45|7000 Coliseum Way|Oakland, CA 94621
+Rich Harden|OAK|Starting Pitcher|73|180|25.25|7000 Coliseum Way|Oakland, CA 94621
+Joe Kennedy|OAK|Starting Pitcher|76|237|27.77|7000 Coliseum Way|Oakland, CA 94621
+Esteban Loaiza|OAK|Starting Pitcher|75|215|35.16|7000 Coliseum Way|Oakland, CA 94621
+Alan Embree|OAK|Relief Pitcher|74|190|37.1|7000 Coliseum Way|Oakland, CA 94621
+Jay Witasick|OAK|Relief Pitcher|76|235|34.51|7000 Coliseum Way|Oakland, CA 94621
+Justin Duchscherer|OAK|Relief Pitcher|75|190|29.28|7000 Coliseum Way|Oakland, CA 94621
+Kiko Calero|OAK|Relief Pitcher|73|180|32.14|7000 Coliseum Way|Oakland, CA 94621
+Chad Gaudin|OAK|Relief Pitcher|71|165|23.94|7000 Coliseum Way|Oakland, CA 94621
+Lenny DiNardo|OAK|Relief Pitcher|76|195|27.45|7000 Coliseum Way|Oakland, CA 94621
+Scott Dunn|OAK|Relief Pitcher|75|200|28.77|7000 Coliseum Way|Oakland, CA 94621
+Huston Street|OAK|Relief Pitcher|72|190|23.58|7000 Coliseum Way|Oakland, CA 94621
+Ron Flores|OAK|Relief Pitcher|71|190|27.56|7000 Coliseum Way|Oakland, CA 94621
+Jay Marshall|OAK|Relief Pitcher|77|185|24.01|7000 Coliseum Way|Oakland, CA 94621
+Marcus McBeth|OAK|Relief Pitcher|73|185|26.52|7000 Coliseum Way|Oakland, CA 94621
+Jorge Posada|NYY|Catcher|74|205|35.54|One East 161st Street|Bronx, NY 10451
+Wil Nieves|NYY|Catcher|71|190|29.43|One East 161st Street|Bronx, NY 10451
+Andy Phillips|NYY|First Baseman|72|205|29.9|One East 161st Street|Bronx, NY 10451
+Doug Mientkiewicz|NYY|First Baseman|74|206|32.7|One East 161st Street|Bronx, NY 10451
+Josh Phelps|NYY|First Baseman|75|220|28.8|One East 161st Street|Bronx, NY 10451
+Miguel Cairo|NYY|Second Baseman|73|208|32.82|One East 161st Street|Bronx, NY 10451
+Robinson Cano|NYY|Second Baseman|72|170|24.36|One East 161st Street|Bronx, NY 10451
+Derek Jeter|NYY|Shortstop|75|195|32.68|One East 161st Street|Bronx, NY 10451
+Alex Rodriguez|NYY|Third Baseman|75|210|31.59|One East 161st Street|Bronx, NY 10451
+Johnny Damon|NYY|Outfielder|74|190|33.32|One East 161st Street|Bronx, NY 10451
+Bobby Abreu|NYY|Outfielder|72|211|32.97|One East 161st Street|Bronx, NY 10451
+Hideki Matsui|NYY|Outfielder|74|230|32.72|One East 161st Street|Bronx, NY 10451
+Melky Cabrera|NYY|Outfielder|71|170|22.55|One East 161st Street|Bronx, NY 10451
+Kevin Thompson|NYY|Outfielder|70|185|27.45|One East 161st Street|Bronx, NY 10451
+Jason Giambi|NYY|Designated Hitter|75|230|36.14|One East 161st Street|Bronx, NY 10451
+Mike Mussina|NYY|Starting Pitcher|74|185|38.23|One East 161st Street|Bronx, NY 10451
+Carl Pavano|NYY|Starting Pitcher|77|241|31.14|One East 161st Street|Bronx, NY 10451
+Andy Pettitte|NYY|Starting Pitcher|77|225|34.71|One East 161st Street|Bronx, NY 10451
+Darrell Rasner|NYY|Starting Pitcher|75|210|26.13|One East 161st Street|Bronx, NY 10451
+Jeff Karstens|NYY|Starting Pitcher|75|175|24.43|One East 161st Street|Bronx, NY 10451
+Humberto Sanchez|NYY|Starting Pitcher|78|230|23.76|One East 161st Street|Bronx, NY 10451
+Chien-Ming Wang|NYY|Starting Pitcher|75|200|26.92|One East 161st Street|Bronx, NY 10451
+Sean Henn|NYY|Relief Pitcher|76|215|25.85|One East 161st Street|Bronx, NY 10451
+Scott Proctor|NYY|Relief Pitcher|73|198|30.16|One East 161st Street|Bronx, NY 10451
+Brian Bruney|NYY|Relief Pitcher|75|226|25.03|One East 161st Street|Bronx, NY 10451
+Chris Britton|NYY|Relief Pitcher|75|278|24.21|One East 161st Street|Bronx, NY 10451
+T.J. Beam|NYY|Relief Pitcher|79|215|26.51|One East 161st Street|Bronx, NY 10451
+Jose Veras|NYY|Relief Pitcher|77|230|26.36|One East 161st Street|Bronx, NY 10451
+Kyle Farnsworth|NYY|Relief Pitcher|76|240|30.88|One East 161st Street|Bronx, NY 10451
+Luis Vizcaino|NYY|Relief Pitcher|71|184|32.57|One East 161st Street|Bronx, NY 10451
+Mike Myers|NYY|Relief Pitcher|75|219|37.68|One East 161st Street|Bronx, NY 10451
+Mariano Rivera|NYY|Relief Pitcher|74|170|37.25|One East 161st Street|Bronx, NY 10451
+Ivan Rodriguez|DET|Catcher|69|218|35.25|2100 Woodward Avenue|Detroit, MI 48201
+Vance Wilson|DET|Catcher|71|190|33.95|2100 Woodward Avenue|Detroit, MI 48201
+Sean Casey|DET|First Baseman|76|225|32.66|2100 Woodward Avenue|Detroit, MI 48201
+Chris Shelton|DET|First Baseman|72|220|26.68|2100 Woodward Avenue|Detroit, MI 48201
+Omar Infante|DET|Second Baseman|72|176|25.18|2100 Woodward Avenue|Detroit, MI 48201
+Placido Polanco|DET|Second Baseman|70|190|31.39|2100 Woodward Avenue|Detroit, MI 48201
+Neifi Perez|DET|Second Baseman|72|197|33.74|2100 Woodward Avenue|Detroit, MI 48201
+Carlos Guillen|DET|Shortstop|73|204|31.42|2100 Woodward Avenue|Detroit, MI 48201
+Ramon Santiago|DET|Shortstop|71|167|27.5|2100 Woodward Avenue|Detroit, MI 48201
+Tony Giarratano|DET|Shortstop|72|180|24.25|2100 Woodward Avenue|Detroit, MI 48201
+Brandon Inge|DET|Third Baseman|71|195|29.78|2100 Woodward Avenue|Detroit, MI 48201
+Craig Monroe|DET|Outfielder|73|220|30.0|2100 Woodward Avenue|Detroit, MI 48201
+Magglio Ordo?ez|DET|Outfielder|72|215|33.09|2100 Woodward Avenue|Detroit, MI 48201
+Curtis Granderson|DET|Outfielder|73|185|25.96|2100 Woodward Avenue|Detroit, MI 48201
+Brent Clevlen|DET|Outfielder|74|190|23.34|2100 Woodward Avenue|Detroit, MI 48201
+Marcus Thames|DET|Outfielder|74|205|29.98|2100 Woodward Avenue|Detroit, MI 48201
+Gary Sheffield|DET|Outfielder|72|205|38.28|2100 Woodward Avenue|Detroit, MI 48201
+Mike Rabelo|DET|Designated Hitter|73|200|27.12|2100 Woodward Avenue|Detroit, MI 48201
+Zach Miner|DET|Starting Pitcher|75|200|24.97|2100 Woodward Avenue|Detroit, MI 48201
+Jeremy Bonderman|DET|Starting Pitcher|74|210|24.34|2100 Woodward Avenue|Detroit, MI 48201
+Nate Robertson|DET|Starting Pitcher|74|215|29.49|2100 Woodward Avenue|Detroit, MI 48201
+Justin Verlander|DET|Starting Pitcher|77|200|24.02|2100 Woodward Avenue|Detroit, MI 48201
+Virgil Vasquez|DET|Starting Pitcher|75|205|24.73|2100 Woodward Avenue|Detroit, MI 48201
+Kenny Rogers|DET|Starting Pitcher|73|211|42.3|2100 Woodward Avenue|Detroit, MI 48201
+Mike Maroth|DET|Starting Pitcher|72|190|29.54|2100 Woodward Avenue|Detroit, MI 48201
+Fernando Rodney|DET|Relief Pitcher|71|208|29.95|2100 Woodward Avenue|Detroit, MI 48201
+Chad Durbin|DET|Relief Pitcher|74|200|29.24|2100 Woodward Avenue|Detroit, MI 48201
+Jason Grilli|DET|Relief Pitcher|77|210|30.3|2100 Woodward Avenue|Detroit, MI 48201
+Jose Mesa|DET|Relief Pitcher|75|232|40.77|2100 Woodward Avenue|Detroit, MI 48201
+Todd Jones|DET|Relief Pitcher|75|230|38.85|2100 Woodward Avenue|Detroit, MI 48201
+Joel Zumaya|DET|Relief Pitcher|75|210|22.31|2100 Woodward Avenue|Detroit, MI 48201
+Jordan Tata|DET|Relief Pitcher|78|220|25.44|2100 Woodward Avenue|Detroit, MI 48201
+Andrew Miller|DET|Relief Pitcher|78|210|21.78|2100 Woodward Avenue|Detroit, MI 48201
+Yorman Bazardo|DET|Relief Pitcher|74|202|22.64|2100 Woodward Avenue|Detroit, MI 48201
+Wilfredo Ledezma|DET|Relief Pitcher|76|212|26.11|2100 Woodward Avenue|Detroit, MI 48201
+Roman Colon|DET|Relief Pitcher|78|225|27.55|2100 Woodward Avenue|Detroit, MI 48201
+Edward Campusano|DET|Relief Pitcher|76|170|24.63|2100 Woodward Avenue|Detroit, MI 48201
+Rene Rivera|SEA|Catcher|70|190|23.58|P.O. Box 4100|Seattle, WA 98104
+Kenji Johjima|SEA|Catcher|72|200|30.73|P.O. Box 4100|Seattle, WA 98104
+Richie Sexson|SEA|First Baseman|80|237|32.17|P.O. Box 4100|Seattle, WA 98104
+Ben Broussard|SEA|First Baseman|74|220|30.43|P.O. Box 4100|Seattle, WA 98104
+Jose Lopez|SEA|Second Baseman|74|170|23.27|P.O. Box 4100|Seattle, WA 98104
+Jose Vidro|SEA|Second Baseman|71|193|32.51|P.O. Box 4100|Seattle, WA 98104
+Yuniesky Betancourt|SEA|Shortstop|70|190|25.08|P.O. Box 4100|Seattle, WA 98104
+Oswaldo Navarro|SEA|Shortstop|72|150|22.41|P.O. Box 4100|Seattle, WA 98104
+Adrian Beltre|SEA|Third Baseman|71|220|27.9|P.O. Box 4100|Seattle, WA 98104
+Raul Ibanez|SEA|Outfielder|74|200|34.74|P.O. Box 4100|Seattle, WA 98104
+Jose Guillen|SEA|Outfielder|71|190|30.79|P.O. Box 4100|Seattle, WA 98104
+Jeremy Reed|SEA|Outfielder|72|185|25.71|P.O. Box 4100|Seattle, WA 98104
+Willie Bloomquist|SEA|Outfielder|71|185|29.26|P.O. Box 4100|Seattle, WA 98104
+Adam Jones|SEA|Outfielder|74|200|21.58|P.O. Box 4100|Seattle, WA 98104
+Ichiro Suzuki|SEA|Outfielder|69|172|33.36|P.O. Box 4100|Seattle, WA 98104
+Mike Morse|SEA|Outfielder|76|220|24.94|P.O. Box 4100|Seattle, WA 98104
+Felix Hernandez|SEA|Starting Pitcher|75|225|20.9|P.O. Box 4100|Seattle, WA 98104
+Ryan Feierabend|SEA|Starting Pitcher|75|190|21.52|P.O. Box 4100|Seattle, WA 98104
+Sean White|SEA|Starting Pitcher|76|195|25.85|P.O. Box 4100|Seattle, WA 98104
+Horacio Ramirez|SEA|Starting Pitcher|73|219|27.27|P.O. Box 4100|Seattle, WA 98104
+Cha Baek|SEA|Starting Pitcher|76|190|26.75|P.O. Box 4100|Seattle, WA 98104
+Miguel Batista|SEA|Starting Pitcher|73|197|36.03|P.O. Box 4100|Seattle, WA 98104
+Jeff Weaver|SEA|Starting Pitcher|77|200|30.52|P.O. Box 4100|Seattle, WA 98104
+Jarrod Washburn|SEA|Starting Pitcher|73|195|32.55|P.O. Box 4100|Seattle, WA 98104
+George Sherrill|SEA|Relief Pitcher|72|210|29.86|P.O. Box 4100|Seattle, WA 98104
+Julio Mateo|SEA|Relief Pitcher|72|177|29.58|P.O. Box 4100|Seattle, WA 98104
+J.J. Putz|SEA|Relief Pitcher|77|220|30.02|P.O. Box 4100|Seattle, WA 98104
+Chris Reitsma|SEA|Relief Pitcher|77|235|29.16|P.O. Box 4100|Seattle, WA 98104
+Cesar Jimenez|SEA|Relief Pitcher|71|180|22.3|P.O. Box 4100|Seattle, WA 98104
+Eric O'Flaherty|SEA|Relief Pitcher|74|195|22.06|P.O. Box 4100|Seattle, WA 98104
+Jon Huber|SEA|Relief Pitcher|74|195|25.65|P.O. Box 4100|Seattle, WA 98104
+Jake Woods|SEA|Relief Pitcher|73|190|25.49|P.O. Box 4100|Seattle, WA 98104
+Sean Green|SEA|Relief Pitcher|78|230|27.86|P.O. Box 4100|Seattle, WA 98104
+Mark Lowe|SEA|Relief Pitcher|75|190|23.73|P.O. Box 4100|Seattle, WA 98104
+Josh Paul|TB|Catcher|73|200|31.78|One Tropicana Drive|St. Petersburg, FL 33705
+Dioner Navarro|TB|Catcher|70|190|23.06|One Tropicana Drive|St. Petersburg, FL 33705
+Shawn Riggans|TB|Catcher|74|190|26.6|One Tropicana Drive|St. Petersburg, FL 33705
+Ty Wigginton|TB|First Baseman|72|200|29.39|One Tropicana Drive|St. Petersburg, FL 33705
+Brendan Harris|TB|Second Baseman|73|200|26.51|One Tropicana Drive|St. Petersburg, FL 33705
+Jorge Cantu|TB|Second Baseman|73|184|25.08|One Tropicana Drive|St. Petersburg, FL 33705
+Ben Zobrist|TB|Shortstop|75|200|25.76|One Tropicana Drive|St. Petersburg, FL 33705
+B.J. Upton|TB|Third Baseman|75|180|22.52|One Tropicana Drive|St. Petersburg, FL 33705
+Carl Crawford|TB|Outfielder|74|219|25.57|One Tropicana Drive|St. Petersburg, FL 33705
+Rocco Baldelli|TB|Outfielder|76|187|25.43|One Tropicana Drive|St. Petersburg, FL 33705
+Greg Norton|TB|Outfielder|73|200|34.65|One Tropicana Drive|St. Petersburg, FL 33705
+Elijah Dukes|TB|Outfielder|74|220|22.68|One Tropicana Drive|St. Petersburg, FL 33705
+Delmon Young|TB|Outfielder|75|205|21.46|One Tropicana Drive|St. Petersburg, FL 33705
+Jonny Gomes|TB|Designated Hitter|73|205|26.27|One Tropicana Drive|St. Petersburg, FL 33705
+Edwin Jackson|TB|Starting Pitcher|75|190|23.47|One Tropicana Drive|St. Petersburg, FL 33705
+Scott Kazmir|TB|Starting Pitcher|72|170|23.1|One Tropicana Drive|St. Petersburg, FL 33705
+Casey Fossum|TB|Starting Pitcher|73|160|29.14|One Tropicana Drive|St. Petersburg, FL 33705
+Jae Seo|TB|Starting Pitcher|73|215|29.77|One Tropicana Drive|St. Petersburg, FL 33705
+J.P. Howell|TB|Starting Pitcher|72|175|23.85|One Tropicana Drive|St. Petersburg, FL 33705
+Tim Corcoran|TB|Starting Pitcher|74|205|28.88|One Tropicana Drive|St. Petersburg, FL 33705
+Jason Hammel|TB|Starting Pitcher|78|200|24.49|One Tropicana Drive|St. Petersburg, FL 33705
+James Shields|TB|Starting Pitcher|76|214|25.19|One Tropicana Drive|St. Petersburg, FL 33705
+Brian Stokes|TB|Starting Pitcher|73|200|27.48|One Tropicana Drive|St. Petersburg, FL 33705
+Juan Salas|TB|Relief Pitcher|74|190|28.31|One Tropicana Drive|St. Petersburg, FL 33705
+Jeff Ridgway|TB|Relief Pitcher|75|180|26.54|One Tropicana Drive|St. Petersburg, FL 33705
+Ruddy Lugo|TB|Relief Pitcher|70|205|26.77|One Tropicana Drive|St. Petersburg, FL 33705
+Jae-Kuk Ryu|TB|Relief Pitcher|75|220|23.75|One Tropicana Drive|St. Petersburg, FL 33705
+Chad Orvella|TB|Relief Pitcher|71|190|26.41|One Tropicana Drive|St. Petersburg, FL 33705
+Dan Miceli|TB|Relief Pitcher|72|215|36.47|One Tropicana Drive|St. Petersburg, FL 33705
+Seth McClung|TB|Relief Pitcher|78|235|26.06|One Tropicana Drive|St. Petersburg, FL 33705
+Jon Switzer|TB|Relief Pitcher|75|191|27.55|One Tropicana Drive|St. Petersburg, FL 33705
+Shawn Camp|TB|Relief Pitcher|73|200|31.28|One Tropicana Drive|St. Petersburg, FL 33705
+Scott Dohmann|TB|Relief Pitcher|73|181|29.04|One Tropicana Drive|St. Petersburg, FL 33705
+Jason LaRue|KC|Catcher|71|200|32.95|One Royal Way|Kansas City, MO 64129
+John Buck|KC|Catcher|75|210|26.65|One Royal Way|Kansas City, MO 64129
+Ryan Shealy|KC|First Baseman|77|240|27.5|One Royal Way|Kansas City, MO 64129
+Ross Gload|KC|First Baseman|72|185|30.9|One Royal Way|Kansas City, MO 64129
+Esteban German|KC|Second Baseman|69|165|29.09|One Royal Way|Kansas City, MO 64129
+Mark Grudzielanek|KC|Second Baseman|73|190|36.67|One Royal Way|Kansas City, MO 64129
+Angel Sanchez|KC|Second Baseman|74|185|23.44|One Royal Way|Kansas City, MO 64129
+Angel Berroa|KC|Shortstop|72|175|29.09|One Royal Way|Kansas City, MO 64129
+Andres Blanco|KC|Shortstop|70|155|22.89|One Royal Way|Kansas City, MO 64129
+Mark Teahen|KC|Third Baseman|75|210|25.48|One Royal Way|Kansas City, MO 64129
+Joey Gathright|KC|Outfielder|70|170|25.84|One Royal Way|Kansas City, MO 64129
+David DeJesus|KC|Outfielder|72|175|27.2|One Royal Way|Kansas City, MO 64129
+Shane Costa|KC|Outfielder|72|220|25.22|One Royal Way|Kansas City, MO 64129
+Mitch Maier|KC|Outfielder|74|210|24.67|One Royal Way|Kansas City, MO 64129
+Reggie Sanders|KC|Outfielder|73|205|39.25|One Royal Way|Kansas City, MO 64129
+Emil Brown|KC|Outfielder|74|200|32.17|One Royal Way|Kansas City, MO 64129
+Mike Sweeney|KC|Designated Hitter|75|225|33.61|One Royal Way|Kansas City, MO 64129
+John Bale|KC|Starting Pitcher|76|205|32.77|One Royal Way|Kansas City, MO 64129
+Luke Hudson|KC|Starting Pitcher|75|195|29.83|One Royal Way|Kansas City, MO 64129
+Scott Elarton|KC|Starting Pitcher|80|240|31.02|One Royal Way|Kansas City, MO 64129
+Odalis Perez|KC|Starting Pitcher|72|150|29.73|One Royal Way|Kansas City, MO 64129
+Gil Meche|KC|Starting Pitcher|75|200|28.48|One Royal Way|Kansas City, MO 64129
+Neal Musser|KC|Starting Pitcher|73|215|26.51|One Royal Way|Kansas City, MO 64129
+Brian Bannister|KC|Starting Pitcher|74|202|26.0|One Royal Way|Kansas City, MO 64129
+Zack Greinke|KC|Starting Pitcher|74|200|23.36|One Royal Way|Kansas City, MO 64129
+Jorge De La Rosa|KC|Starting Pitcher|73|190|25.9|One Royal Way|Kansas City, MO 64129
+Todd Wellemeyer|KC|Relief Pitcher|75|205|28.5|One Royal Way|Kansas City, MO 64129
+Jimmy Gobble|KC|Relief Pitcher|75|190|25.62|One Royal Way|Kansas City, MO 64129
+Joel Peralta|KC|Relief Pitcher|71|160|30.94|One Royal Way|Kansas City, MO 64129
+Ryan Braun|KC|Relief Pitcher|73|215|26.59|One Royal Way|Kansas City, MO 64129
+Joakim Soria|KC|Relief Pitcher|75|185|22.78|One Royal Way|Kansas City, MO 64129
+Ken Ray|KC|Relief Pitcher|74|200|32.26|One Royal Way|Kansas City, MO 64129
+David Riske|KC|Relief Pitcher|74|190|30.35|One Royal Way|Kansas City, MO 64129
+Octavio Dotel|KC|Relief Pitcher|72|210|33.26|One Royal Way|Kansas City, MO 64129
+Joe Nelson|KC|Relief Pitcher|74|185|32.35|One Royal Way|Kansas City, MO 64129
+Gerald Laird|TEX|Catcher|74|220|27.3|1000 Ballpark Way|Arlington, TX 76011
+Miguel Ojeda|TEX|Catcher|74|190|32.08|1000 Ballpark Way|Arlington, TX 76011
+Guillermo Quiroz|TEX|Catcher|73|202|25.25|1000 Ballpark Way|Arlington, TX 76011
+Chris Stewart|TEX|Catcher|76|205|25.03|1000 Ballpark Way|Arlington, TX 76011
+Mark Teixeira|TEX|First Baseman|75|220|26.89|1000 Ballpark Way|Arlington, TX 76011
+Ian Kinsler|TEX|Second Baseman|72|175|24.69|1000 Ballpark Way|Arlington, TX 76011
+Joaquin Arias|TEX|Shortstop|73|160|22.44|1000 Ballpark Way|Arlington, TX 76011
+Michael Young|TEX|Shortstop|73|190|30.36|1000 Ballpark Way|Arlington, TX 76011
+Hank Blalock|TEX|Third Baseman|73|200|26.27|1000 Ballpark Way|Arlington, TX 76011
+Marlon Byrd|TEX|Outfielder|72|229|29.5|1000 Ballpark Way|Arlington, TX 76011
+Brad Wilkerson|TEX|Outfielder|72|206|29.75|1000 Ballpark Way|Arlington, TX 76011
+Sammy Sosa|TEX|Outfielder|72|220|38.3|1000 Ballpark Way|Arlington, TX 76011
+Kenny Lofton|TEX|Outfielder|72|180|39.75|1000 Ballpark Way|Arlington, TX 76011
+Frank Catalanotto|TEX|Outfielder|71|195|32.84|1000 Ballpark Way|Arlington, TX 76011
+Nelson Cruz|TEX|Outfielder|75|175|26.66|1000 Ballpark Way|Arlington, TX 76011
+Jason Botts|TEX|Designated Hitter|77|250|26.6|1000 Ballpark Way|Arlington, TX 76011
+Robinson Tejeda|TEX|Starting Pitcher|75|188|24.94|1000 Ballpark Way|Arlington, TX 76011
+John Rheinecker|TEX|Starting Pitcher|74|230|27.76|1000 Ballpark Way|Arlington, TX 76011
+Edinson Volquez|TEX|Starting Pitcher|73|190|23.66|1000 Ballpark Way|Arlington, TX 76011
+A.J. Murray|TEX|Starting Pitcher|75|200|24.96|1000 Ballpark Way|Arlington, TX 76011
+Brandon McCarthy|TEX|Starting Pitcher|79|190|23.65|1000 Ballpark Way|Arlington, TX 76011
+Vicente Padilla|TEX|Starting Pitcher|74|219|29.42|1000 Ballpark Way|Arlington, TX 76011
+Kevin Millwood|TEX|Starting Pitcher|76|235|32.18|1000 Ballpark Way|Arlington, TX 76011
+John Koronka|TEX|Starting Pitcher|73|180|26.66|1000 Ballpark Way|Arlington, TX 76011
+Frank Francisco|TEX|Relief Pitcher|74|180|27.47|1000 Ballpark Way|Arlington, TX 76011
+Francisco Cruceta|TEX|Relief Pitcher|74|180|25.66|1000 Ballpark Way|Arlington, TX 76011
+Akinori Otsuka|TEX|Relief Pitcher|72|200|35.13|1000 Ballpark Way|Arlington, TX 76011
+Eric Gagne|TEX|Relief Pitcher|74|234|31.15|1000 Ballpark Way|Arlington, TX 76011
+Ron Mahay|TEX|Relief Pitcher|74|185|35.67|1000 Ballpark Way|Arlington, TX 76011
+Joaquin Benoit|TEX|Relief Pitcher|75|220|29.6|1000 Ballpark Way|Arlington, TX 76011
+Rick Bauer|TEX|Relief Pitcher|78|223|30.14|1000 Ballpark Way|Arlington, TX 76011
+Josh Rupe|TEX|Relief Pitcher|74|200|24.53|1000 Ballpark Way|Arlington, TX 76011
+Wes Littleton|TEX|Relief Pitcher|74|210|24.49|1000 Ballpark Way|Arlington, TX 76011
+C.J. Wilson|TEX|Relief Pitcher|74|200|26.28|1000 Ballpark Way|Arlington, TX 76011
+Scott Feldman|TEX|Relief Pitcher|77|210|24.06|1000 Ballpark Way|Arlington, TX 76011
+Gregg Zaun|TOR|Catcher|70|190|35.88||
+Jason Phillips|TOR|Catcher|73|177|30.42||
+Lyle Overbay|TOR|First Baseman|74|227|30.09||
+Russ Adams|TOR|Second Baseman|73|180|26.5||
+Aaron Hill|TOR|Second Baseman|71|195|24.94||
+Jason Smith|TOR|Second Baseman|75|199|29.6||
+John McDonald|TOR|Shortstop|71|175|32.43||
+Royce Clayton|TOR|Shortstop|72|185|37.16||
+Troy Glaus|TOR|Third Baseman|77|240|30.57||
+John Hattig|TOR|Third Baseman|74|210|27.01||
+Reed Johnson|TOR|Outfielder|70|180|30.23||
+Alex Rios|TOR|Outfielder|77|194|26.03||
+Vernon Wells|TOR|Outfielder|73|225|28.23||
+Frank Thomas|TOR|Designated Hitter|77|275|38.76||
+Adam Lind|TOR|Designated Hitter|74|195|23.62||
+Shaun Marcum|TOR|Starting Pitcher|72|180|25.21||
+Casey Janssen|TOR|Starting Pitcher|76|205|25.45||
+Gustavo Chacin|TOR|Starting Pitcher|71|193|26.24||
+A.J. Burnett|TOR|Starting Pitcher|76|230|30.15||
+Roy Halladay|TOR|Starting Pitcher|78|230|29.8||
+John Thomson|TOR|Starting Pitcher|75|220|33.41||
+Tomo Ohka|TOR|Starting Pitcher|73|200|30.95||
+B.J. Ryan|TOR|Relief Pitcher|78|249|31.17||
+Scott Downs|TOR|Relief Pitcher|74|190|30.95||
+Brian Tallet|TOR|Relief Pitcher|79|208|29.44||
+Matt Roney|TOR|Relief Pitcher|75|245|27.14||
+Tracy Thorpe|TOR|Relief Pitcher|76|250|26.21||
+Jean Machi|TOR|Relief Pitcher|72|160|24.08||
+Brandon League|TOR|Relief Pitcher|75|192|23.96||
+Dustin McGowan|TOR|Relief Pitcher|75|220|24.94||
+Jason Frasor|TOR|Relief Pitcher|70|170|29.56||
+Francisco Rosario|TOR|Relief Pitcher|72|197|26.42||
+Davis Romero|TOR|Relief Pitcher|70|155|23.92||
+Jeremy Accardo|TOR|Relief Pitcher|74|190|25.23||
+Mike Redmond|MIN|Catcher|71|200|35.82|1 Twins Way|Minneapolis, MN 55403
+Joe Mauer|MIN|Catcher|76|220|23.87|1 Twins Way|Minneapolis, MN 55403
+Chris Heintz|MIN|Catcher|73|210|32.57|1 Twins Way|Minneapolis, MN 55403
+Justin Morneau|MIN|First Baseman|76|228|25.79|1 Twins Way|Minneapolis, MN 55403
+Luis Castillo|MIN|Second Baseman|71|190|31.47|1 Twins Way|Minneapolis, MN 55403
+Alexi Casilla|MIN|Second Baseman|69|160|22.61|1 Twins Way|Minneapolis, MN 55403
+Alejandro Machado|MIN|Second Baseman|72|184|24.85|1 Twins Way|Minneapolis, MN 55403
+Jason Bartlett|MIN|Shortstop|72|180|27.33|1 Twins Way|Minneapolis, MN 55403
+Luis Rodriguez|MIN|Third Baseman|69|180|26.67|1 Twins Way|Minneapolis, MN 55403
+Jeff Cirillo|MIN|Third Baseman|73|200|37.43|1 Twins Way|Minneapolis, MN 55403
+Nick Punto|MIN|Third Baseman|69|176|29.31|1 Twins Way|Minneapolis, MN 55403
+Jason Tyner|MIN|Outfielder|73|160|29.85|1 Twins Way|Minneapolis, MN 55403
+Michael Cuddyer|MIN|Outfielder|74|222|27.93|1 Twins Way|Minneapolis, MN 55403
+Torii Hunter|MIN|Outfielder|74|211|31.62|1 Twins Way|Minneapolis, MN 55403
+Lew Ford|MIN|Outfielder|72|195|30.55|1 Twins Way|Minneapolis, MN 55403
+Jason Kubel|MIN|Outfielder|71|200|24.77|1 Twins Way|Minneapolis, MN 55403
+Josh Rabe|MIN|Designated Hitter|74|210|28.38|1 Twins Way|Minneapolis, MN 55403
+Rondell White|MIN|Designated Hitter|73|225|35.02|1 Twins Way|Minneapolis, MN 55403
+Ramon Ortiz|MIN|Starting Pitcher|72|175|33.77|1 Twins Way|Minneapolis, MN 55403
+Johan Santana|MIN|Starting Pitcher|72|206|27.97|1 Twins Way|Minneapolis, MN 55403
+Carlos Silva|MIN|Starting Pitcher|76|240|27.85|1 Twins Way|Minneapolis, MN 55403
+Matt Garza|MIN|Starting Pitcher|76|185|23.26|1 Twins Way|Minneapolis, MN 55403
+Boof Bonser|MIN|Starting Pitcher|76|260|25.38|1 Twins Way|Minneapolis, MN 55403
+Francisco Liriano|MIN|Starting Pitcher|74|185|23.35|1 Twins Way|Minneapolis, MN 55403
+Scott Baker|MIN|Starting Pitcher|76|221|25.45|1 Twins Way|Minneapolis, MN 55403
+Pat Neshek|MIN|Relief Pitcher|75|205|26.49|1 Twins Way|Minneapolis, MN 55403
+Glen Perkins|MIN|Relief Pitcher|71|200|24.0|1 Twins Way|Minneapolis, MN 55403
+Julio DePaula|MIN|Relief Pitcher|72|170|24.16|1 Twins Way|Minneapolis, MN 55403
+Juan Rincon|MIN|Relief Pitcher|71|201|28.1|1 Twins Way|Minneapolis, MN 55403
+Jesse Crain|MIN|Relief Pitcher|73|205|25.65|1 Twins Way|Minneapolis, MN 55403
+Matt Guerrier|MIN|Relief Pitcher|75|185|28.58|1 Twins Way|Minneapolis, MN 55403
+Joe Nathan|MIN|Relief Pitcher|76|205|32.27|1 Twins Way|Minneapolis, MN 55403
+Dennys Reyes|MIN|Relief Pitcher|75|245|29.86|1 Twins Way|Minneapolis, MN 55403
+Brayan Pe?a|ATL|Catcher|71|220|25.14|755 Battery Avenue|Atlanta, GA 30339
+Brian McCann|ATL|Catcher|75|210|23.03|755 Battery Avenue|Atlanta, GA 30339
+Craig Wilson|ATL|First Baseman|74|220|30.25|755 Battery Avenue|Atlanta, GA 30339
+Chris Woodward|ATL|Second Baseman|72|185|30.67|755 Battery Avenue|Atlanta, GA 30339
+Pete Orr|ATL|Second Baseman|73|175|27.73|755 Battery Avenue|Atlanta, GA 30339
+Martin Prado|ATL|Second Baseman|73|170|23.34|755 Battery Avenue|Atlanta, GA 30339
+Tony Pe?a|ATL|Shortstop|73|180|25.94|755 Battery Avenue|Atlanta, GA 30339
+Edgar Renteria|ATL|Shortstop|73|200|31.56|755 Battery Avenue|Atlanta, GA 30339
+Chipper Jones|ATL|Third Baseman|76|210|34.85|755 Battery Avenue|Atlanta, GA 30339
+Willy Aybar|ATL|Third Baseman|72|175|23.98|755 Battery Avenue|Atlanta, GA 30339
+Jeff Francoeur|ATL|Outfielder|76|220|23.14|755 Battery Avenue|Atlanta, GA 30339
+Matt Diaz|ATL|Outfielder|73|206|28.99|755 Battery Avenue|Atlanta, GA 30339
+Kelly Johnson|ATL|Outfielder|73|180|25.02|755 Battery Avenue|Atlanta, GA 30339
+Andruw Jones|ATL|Outfielder|73|210|29.85|755 Battery Avenue|Atlanta, GA 30339
+Ryan Langerhans|ATL|Outfielder|75|195|27.03|755 Battery Avenue|Atlanta, GA 30339
+Scott Thorman|ATL|Outfielder|75|200|25.15|755 Battery Avenue|Atlanta, GA 30339
+T.J. Bohn|ATL|Outfielder|77|200|27.12|755 Battery Avenue|Atlanta, GA 30339
+Tim Hudson|ATL|Starting Pitcher|73|164|31.63|755 Battery Avenue|Atlanta, GA 30339
+Jonathan Johnson|ATL|Starting Pitcher|72|180|32.62|755 Battery Avenue|Atlanta, GA 30339
+John Smoltz|ATL|Starting Pitcher|75|220|39.79|755 Battery Avenue|Atlanta, GA 30339
+Mike Hampton|ATL|Starting Pitcher|70|195|34.47|755 Battery Avenue|Atlanta, GA 30339
+Kyle Davies|ATL|Starting Pitcher|74|205|23.47|755 Battery Avenue|Atlanta, GA 30339
+Chuck James|ATL|Starting Pitcher|72|170|25.31|755 Battery Avenue|Atlanta, GA 30339
+Phil Stockman|ATL|Relief Pitcher|80|240|27.1|755 Battery Avenue|Atlanta, GA 30339
+Macay McBride|ATL|Relief Pitcher|71|210|24.35|755 Battery Avenue|Atlanta, GA 30339
+Joey Devine|ATL|Relief Pitcher|71|195|23.45|755 Battery Avenue|Atlanta, GA 30339
+Peter Moylan|ATL|Relief Pitcher|74|200|28.24|755 Battery Avenue|Atlanta, GA 30339
+Mike Gonzalez|ATL|Relief Pitcher|74|205|28.77|755 Battery Avenue|Atlanta, GA 30339
+Lance Cormier|ATL|Relief Pitcher|73|192|26.53|755 Battery Avenue|Atlanta, GA 30339
+Blaine Boyer|ATL|Relief Pitcher|75|190|25.64|755 Battery Avenue|Atlanta, GA 30339
+Manny Acosta|ATL|Relief Pitcher|76|170|25.83|755 Battery Avenue|Atlanta, GA 30339
+Bob Wickman|ATL|Relief Pitcher|73|240|38.06|755 Battery Avenue|Atlanta, GA 30339
+Tanyon Sturtze|ATL|Relief Pitcher|77|200|36.38|755 Battery Avenue|Atlanta, GA 30339
+Oscar Villarreal|ATL|Relief Pitcher|72|205|25.27|755 Battery Avenue|Atlanta, GA 30339
+Rafael Soriano|ATL|Relief Pitcher|73|175|27.2|755 Battery Avenue|Atlanta, GA 30339
+Chad Paronto|ATL|Relief Pitcher|77|250|31.59|755 Battery Avenue|Atlanta, GA 30339
+Tyler Yates|ATL|Relief Pitcher|76|220|29.56|755 Battery Avenue|Atlanta, GA 30339
+Henry Blanco|CHC|Catcher|71|224|35.5|1060 West Addison|Chicago, IL 60613-4397
+Michael Barrett|CHC|Catcher|75|210|30.35|1060 West Addison|Chicago, IL 60613-4397
+Geovany Soto|CHC|Catcher|73|195|24.11|1060 West Addison|Chicago, IL 60613-4397
+Scott Moore|CHC|First Baseman|74|180|23.29|1060 West Addison|Chicago, IL 60613-4397
+Derrek Lee|CHC|First Baseman|77|245|31.48|1060 West Addison|Chicago, IL 60613-4397
+Ryan Theriot|CHC|Second Baseman|71|175|27.23|1060 West Addison|Chicago, IL 60613-4397
+Ronny Cedeno|CHC|Shortstop|72|180|24.07|1060 West Addison|Chicago, IL 60613-4397
+Aramis Ramirez|CHC|Third Baseman|73|215|28.68|1060 West Addison|Chicago, IL 60613-4397
+Cesar Izturis|CHC|Third Baseman|69|175|27.05|1060 West Addison|Chicago, IL 60613-4397
+Alfonso Soriano|CHC|Outfielder|73|180|31.15|1060 West Addison|Chicago, IL 60613-4397
+Jacque Jones|CHC|Outfielder|70|195|31.85|1060 West Addison|Chicago, IL 60613-4397
+Daryle Ward|CHC|Outfielder|74|230|31.68|1060 West Addison|Chicago, IL 60613-4397
+Cliff Floyd|CHC|Outfielder|76|230|34.23|1060 West Addison|Chicago, IL 60613-4397
+Mark DeRosa|CHC|Outfielder|73|205|32.01|1060 West Addison|Chicago, IL 60613-4397
+Matt Murton|CHC|Outfielder|73|215|25.41|1060 West Addison|Chicago, IL 60613-4397
+Buck Coats|CHC|Outfielder|75|195|24.73|1060 West Addison|Chicago, IL 60613-4397
+Angel Pagan|CHC|Outfielder|73|180|25.66|1060 West Addison|Chicago, IL 60613-4397
+Sean Marshall|CHC|Starting Pitcher|79|205|24.5|1060 West Addison|Chicago, IL 60613-4397
+Carlos Marmol|CHC|Starting Pitcher|74|180|24.38|1060 West Addison|Chicago, IL 60613-4397
+Ryan O'Malley|CHC|Starting Pitcher|73|190|26.89|1060 West Addison|Chicago, IL 60613-4397
+Juan Mateo|CHC|Starting Pitcher|74|180|24.2|1060 West Addison|Chicago, IL 60613-4397
+Rich Hill|CHC|Starting Pitcher|77|190|26.97|1060 West Addison|Chicago, IL 60613-4397
+Angel Guzman|CHC|Starting Pitcher|75|190|25.21|1060 West Addison|Chicago, IL 60613-4397
+Wade Miller|CHC|Starting Pitcher|74|220|30.46|1060 West Addison|Chicago, IL 60613-4397
+Jason Marquis|CHC|Starting Pitcher|73|210|28.53|1060 West Addison|Chicago, IL 60613-4397
+Carlos Zambrano|CHC|Starting Pitcher|77|255|25.75|1060 West Addison|Chicago, IL 60613-4397
+Ted Lilly|CHC|Starting Pitcher|73|190|31.15|1060 West Addison|Chicago, IL 60613-4397
+Mark Prior|CHC|Starting Pitcher|77|230|26.48|1060 West Addison|Chicago, IL 60613-4397
+Neal Cotts|CHC|Relief Pitcher|74|200|26.93|1060 West Addison|Chicago, IL 60613-4397
+Will Ohman|CHC|Relief Pitcher|74|205|29.55|1060 West Addison|Chicago, IL 60613-4397
+Scott Eyre|CHC|Relief Pitcher|73|210|34.75|1060 West Addison|Chicago, IL 60613-4397
+Kerry Wood|CHC|Relief Pitcher|77|225|29.71|1060 West Addison|Chicago, IL 60613-4397
+Ryan Dempster|CHC|Relief Pitcher|74|215|29.83|1060 West Addison|Chicago, IL 60613-4397
+Bob Howry|CHC|Relief Pitcher|77|220|33.57|1060 West Addison|Chicago, IL 60613-4397
+Mike Wuertz|CHC|Relief Pitcher|75|205|28.21|1060 West Addison|Chicago, IL 60613-4397
+Roberto Novoa|CHC|Relief Pitcher|77|200|27.54|1060 West Addison|Chicago, IL 60613-4397
+Chris Snyder|ARZ|Catcher|75|220|26.05||
+Miguel Montero|ARZ|Catcher|71|197|23.64||
+Conor Jackson|ARZ|First Baseman|74|225|24.82||
+Robby Hammock|ARZ|First Baseman|70|187|29.8||
+Tony Clark|ARZ|First Baseman|79|245|34.71||
+Orlando Hudson|ARZ|Second Baseman|72|185|29.22||
+Stephen Drew|ARZ|Shortstop|72|185|23.96||
+Alberto Callaspo|ARZ|Shortstop|70|175|23.87||
+Chad Tracy|ARZ|Third Baseman|74|200|26.77||
+Chris Young|ARZ|Outfielder|74|180|23.49||
+Scott Hairston|ARZ|Outfielder|72|188|26.77||
+Carlos Quentin|ARZ|Outfielder|73|225|24.51||
+Jeff DaVanon|ARZ|Outfielder|72|200|33.23||
+Eric Byrnes|ARZ|Outfielder|74|210|31.04||
+Livan Hernandez|ARZ|Starting Pitcher|74|245|32.02||
+Doug Davis|ARZ|Starting Pitcher|76|213|31.44||
+Randy Johnson|ARZ|Starting Pitcher|82|231|43.47||
+Juan Cruz|ARZ|Starting Pitcher|74|165|28.38||
+Brandon Webb|ARZ|Starting Pitcher|74|228|27.81||
+Enrique Gonzalez|ARZ|Starting Pitcher|70|210|24.57||
+Dana Eveland|ARZ|Starting Pitcher|73|250|23.34||
+Brandon Medders|ARZ|Relief Pitcher|73|191|27.09||
+Tony Pe?a|ARZ|Relief Pitcher|74|190|25.14||
+Doug Slaten|ARZ|Relief Pitcher|77|200|27.07||
+Edgar Gonzalez|ARZ|Relief Pitcher|72|215|24.02||
+Jose Valverde|ARZ|Relief Pitcher|76|254|27.6||
+Jorge Julio|ARZ|Relief Pitcher|73|232|27.99||
+Brandon Lyon|ARZ|Relief Pitcher|73|180|27.56||
+Miguel Olivo|FLA|Catcher|72|215|28.63||
+Matt Treanor|FLA|Catcher|74|220|30.99||
+Mike Jacobs|FLA|First Baseman|74|180|26.33||
+Dan Uggla|FLA|Second Baseman|71|200|26.97||
+Robert Andino|FLA|Shortstop|72|170|22.85||
+Hanley Ramirez|FLA|Shortstop|75|195|23.19||
+Miguel Cabrera|FLA|Third Baseman|74|210|23.87||
+Aaron Boone|FLA|Third Baseman|74|200|33.98||
+Joe Borchard|FLA|Outfielder|77|220|28.26||
+Alfredo Amezaga|FLA|Outfielder|70|165|29.12||
+Cody Ross|FLA|Outfielder|71|180|26.18||
+Josh Willingham|FLA|Outfielder|73|200|28.03||
+Jeremy Hermida|FLA|Outfielder|76|200|23.08||
+Eric Reed|FLA|Outfielder|71|170|26.24||
+Reggi Abercrombie|FLA|Outfielder|75|224|26.63||
+Ricky Nolasco|FLA|Starting Pitcher|74|220|24.21||
+Anibal Sanchez|FLA|Starting Pitcher|72|180|23.01||
+Scott Olsen|FLA|Starting Pitcher|76|198|23.13||
+Josh Johnson|FLA|Starting Pitcher|79|240|23.08||
+Dontrelle Willis|FLA|Starting Pitcher|76|239|25.13||
+Logan Kensing|FLA|Relief Pitcher|73|185|24.66||
+Sergio Mitre|FLA|Relief Pitcher|76|210|26.03||
+Kevin Gregg|FLA|Relief Pitcher|78|220|28.7||
+Travis Bowyer|FLA|Relief Pitcher|75|200|25.57||
+Renyel Pinto|FLA|Relief Pitcher|76|195|24.65||
+Randy Messenger|FLA|Relief Pitcher|72|220|25.55||
+Yusmeiro Petit|FLA|Relief Pitcher|72|230|22.27||
+Carlos Martinez|FLA|Relief Pitcher|73|170|24.76||
+Taylor Tankersley|FLA|Relief Pitcher|73|220|23.98||
+Henry Owens|FLA|Relief Pitcher|75|230|27.85||
+Jose Garcia|FLA|Relief Pitcher|71|165|22.14||
+Matt Lindstrom|FLA|Relief Pitcher|76|205|27.05||
+Javier Valentin|CIN|Catcher|70|192|31.45|100 Main Street|Cincinnati, OH 45202-4109
+Chad Moeller|CIN|Catcher|75|210|32.03|100 Main Street|Cincinnati, OH 45202-4109
+David Ross|CIN|Catcher|74|205|29.95|100 Main Street|Cincinnati, OH 45202-4109
+Joey Votto|CIN|First Baseman|75|200|23.47|100 Main Street|Cincinnati, OH 45202-4109
+Scott Hatteberg|CIN|First Baseman|73|210|37.21|100 Main Street|Cincinnati, OH 45202-4109
+Brandon Phillips|CIN|Second Baseman|71|185|25.67|100 Main Street|Cincinnati, OH 45202-4109
+Juan Castro|CIN|Shortstop|71|195|34.69|100 Main Street|Cincinnati, OH 45202-4109
+Alex Gonzalez|CIN|Shortstop|72|202|30.04|100 Main Street|Cincinnati, OH 45202-4109
+Mark Bellhorn|CIN|Third Baseman|73|205|32.52|100 Main Street|Cincinnati, OH 45202-4109
+Edwin Encarnacion|CIN|Third Baseman|73|195|24.15|100 Main Street|Cincinnati, OH 45202-4109
+Jeff Keppinger|CIN|Third Baseman|72|180|26.86|100 Main Street|Cincinnati, OH 45202-4109
+Norris Hopper|CIN|Outfielder|69|200|27.94|100 Main Street|Cincinnati, OH 45202-4109
+Chris Denorfia|CIN|Outfielder|73|185|26.63|100 Main Street|Cincinnati, OH 45202-4109
+Adam Dunn|CIN|Outfielder|78|240|27.31|100 Main Street|Cincinnati, OH 45202-4109
+Bubba Crosby|CIN|Outfielder|71|185|30.55|100 Main Street|Cincinnati, OH 45202-4109
+Jeff Conine|CIN|Outfielder|73|220|40.68|100 Main Street|Cincinnati, OH 45202-4109
+Ken Griffey Jr.|CIN|Outfielder|75|205|37.27|100 Main Street|Cincinnati, OH 45202-4109
+Josh Hamilton|CIN|Outfielder|76|205|25.78|100 Main Street|Cincinnati, OH 45202-4109
+Ryan Freel|CIN|Outfielder|70|180|30.98|100 Main Street|Cincinnati, OH 45202-4109
+Kyle Lohse|CIN|Starting Pitcher|74|201|28.41|100 Main Street|Cincinnati, OH 45202-4109
+Bronson Arroyo|CIN|Starting Pitcher|77|190|30.01|100 Main Street|Cincinnati, OH 45202-4109
+Eric Milton|CIN|Starting Pitcher|75|208|31.57|100 Main Street|Cincinnati, OH 45202-4109
+Aaron Harang|CIN|Starting Pitcher|79|240|28.81|100 Main Street|Cincinnati, OH 45202-4109
+Kirk Saarloos|CIN|Starting Pitcher|72|0|27.77|100 Main Street|Cincinnati, OH 45202-4109
+Elizardo Ramirez|CIN|Starting Pitcher|72|180|24.09|100 Main Street|Cincinnati, OH 45202-4109
+Todd Coffey|CIN|Relief Pitcher|77|230|26.47|100 Main Street|Cincinnati, OH 45202-4109
+Brian Shackelford|CIN|Relief Pitcher|73|195|30.5|100 Main Street|Cincinnati, OH 45202-4109
+Bill Bray|CIN|Relief Pitcher|75|215|23.74|100 Main Street|Cincinnati, OH 45202-4109
+Bobby Livingston|CIN|Relief Pitcher|75|190|24.49|100 Main Street|Cincinnati, OH 45202-4109
+Matt Belisle|CIN|Relief Pitcher|75|195|26.73|100 Main Street|Cincinnati, OH 45202-4109
+Gary Majewski|CIN|Relief Pitcher|73|215|27.01|100 Main Street|Cincinnati, OH 45202-4109
+Mike Stanton|CIN|Relief Pitcher|73|215|39.75|100 Main Street|Cincinnati, OH 45202-4109
+Brad Salmon|CIN|Relief Pitcher|76|220|27.16|100 Main Street|Cincinnati, OH 45202-4109
+Jared Burton|CIN|Relief Pitcher|77|220|25.74|100 Main Street|Cincinnati, OH 45202-4109
+David Weathers|CIN|Relief Pitcher|75|230|37.43|100 Main Street|Cincinnati, OH 45202-4109
+Rheal Cormier|CIN|Relief Pitcher|70|195|39.85|100 Main Street|Cincinnati, OH 45202-4109
+Yorvit Torrealba|COL|Catcher|71|190|28.62|2001 Blake Street|Denver, CO 80205-2000
+Chris Iannetta|COL|Catcher|71|195|23.9|2001 Blake Street|Denver, CO 80205-2000
+Alvin Colina|COL|Catcher|75|209|25.18|2001 Blake Street|Denver, CO 80205-2000
+Todd Helton|COL|First Baseman|74|204|33.53|2001 Blake Street|Denver, CO 80205-2000
+Jamey Carroll|COL|Second Baseman|69|170|33.03|2001 Blake Street|Denver, CO 80205-2000
+Kaz Matsui|COL|Second Baseman|70|185|31.35|2001 Blake Street|Denver, CO 80205-2000
+Troy Tulowitzki|COL|Shortstop|75|205|22.39|2001 Blake Street|Denver, CO 80205-2000
+Clint Barmes|COL|Shortstop|72|175|27.99|2001 Blake Street|Denver, CO 80205-2000
+Garrett Atkins|COL|Third Baseman|75|210|27.22|2001 Blake Street|Denver, CO 80205-2000
+Ryan Spilborghs|COL|Outfielder|73|190|27.49|2001 Blake Street|Denver, CO 80205-2000
+Cory Sullivan|COL|Outfielder|72|180|27.53|2001 Blake Street|Denver, CO 80205-2000
+Jeff Salazar|COL|Outfielder|72|180|26.26|2001 Blake Street|Denver, CO 80205-2000
+Willy Taveras|COL|Outfielder|72|160|25.18|2001 Blake Street|Denver, CO 80205-2000
+Matt Holliday|COL|Outfielder|76|235|27.12|2001 Blake Street|Denver, CO 80205-2000
+Brad Hawpe|COL|Outfielder|75|200|27.69|2001 Blake Street|Denver, CO 80205-2000
+Jeff Baker|COL|Outfielder|74|210|25.69|2001 Blake Street|Denver, CO 80205-2000
+Javy Lopez|COL|Designated Hitter|75|224|36.32|2001 Blake Street|Denver, CO 80205-2000
+Byung-Hyun Kim|COL|Starting Pitcher|69|180|28.11|2001 Blake Street|Denver, CO 80205-2000
+Rodrigo Lopez|COL|Starting Pitcher|73|190|31.21|2001 Blake Street|Denver, CO 80205-2000
+Brian Lawrence|COL|Starting Pitcher|72|197|30.8|2001 Blake Street|Denver, CO 80205-2000
+Josh Fogg|COL|Starting Pitcher|72|203|30.21|2001 Blake Street|Denver, CO 80205-2000
+Aaron Cook|COL|Starting Pitcher|75|205|28.06|2001 Blake Street|Denver, CO 80205-2000
+Denny Bautista|COL|Starting Pitcher|77|170|26.52|2001 Blake Street|Denver, CO 80205-2000
+Ubaldo Jimenez|COL|Starting Pitcher|76|200|23.1|2001 Blake Street|Denver, CO 80205-2000
+Jason Hirsh|COL|Starting Pitcher|80|250|25.02|2001 Blake Street|Denver, CO 80205-2000
+Jeff Francis|COL|Starting Pitcher|77|200|26.14|2001 Blake Street|Denver, CO 80205-2000
+Taylor Buchholz|COL|Starting Pitcher|76|220|25.38|2001 Blake Street|Denver, CO 80205-2000
+Ryan Speier|COL|Relief Pitcher|79|200|27.6|2001 Blake Street|Denver, CO 80205-2000
+Ramon Ramirez|COL|Relief Pitcher|71|190|25.5|2001 Blake Street|Denver, CO 80205-2000
+Manny Corpas|COL|Relief Pitcher|75|170|24.24|2001 Blake Street|Denver, CO 80205-2000
+Juan Morillo|COL|Relief Pitcher|73|190|23.32|2001 Blake Street|Denver, CO 80205-2000
+Brian Fuentes|COL|Relief Pitcher|76|220|31.56|2001 Blake Street|Denver, CO 80205-2000
+LaTroy Hawkins|COL|Relief Pitcher|77|215|34.19|2001 Blake Street|Denver, CO 80205-2000
+Tom Martin|COL|Relief Pitcher|73|206|36.78|2001 Blake Street|Denver, CO 80205-2000
+Jeremy Affeldt|COL|Relief Pitcher|76|215|27.73|2001 Blake Street|Denver, CO 80205-2000
+Paul Lo Duca|NYM|Catcher|70|185|34.88|120-01 Roosevelt Avenue|Corona, NY 11368
+Ramon Castro|NYM|Catcher|75|235|31.0|120-01 Roosevelt Avenue|Corona, NY 11368
+Julio Franco|NYM|First Baseman|73|188|48.52|120-01 Roosevelt Avenue|Corona, NY 11368
+Carlos Delgado|NYM|First Baseman|75|230|34.68|120-01 Roosevelt Avenue|Corona, NY 11368
+Jose Valentin|NYM|Second Baseman|70|195|37.38|120-01 Roosevelt Avenue|Corona, NY 11368
+Anderson Hernandez|NYM|Second Baseman|69|168|24.33|120-01 Roosevelt Avenue|Corona, NY 11368
+Damion Easley|NYM|Shortstop|71|190|37.3|120-01 Roosevelt Avenue|Corona, NY 11368
+Jose Reyes|NYM|Shortstop|72|160|23.72|120-01 Roosevelt Avenue|Corona, NY 11368
+David Wright|NYM|Third Baseman|72|200|24.19|120-01 Roosevelt Avenue|Corona, NY 11368
+Ben Johnson|NYM|Outfielder|73|200|25.7|120-01 Roosevelt Avenue|Corona, NY 11368
+Endy Chavez|NYM|Outfielder|70|189|29.06|120-01 Roosevelt Avenue|Corona, NY 11368
+David Newhan|NYM|Outfielder|70|180|33.48|120-01 Roosevelt Avenue|Corona, NY 11368
+Carlos Beltran|NYM|Outfielder|73|190|29.85|120-01 Roosevelt Avenue|Corona, NY 11368
+Shawn Green|NYM|Outfielder|76|200|34.3|120-01 Roosevelt Avenue|Corona, NY 11368
+Moises Alou|NYM|Outfielder|75|220|40.66|120-01 Roosevelt Avenue|Corona, NY 11368
+Lastings Milledge|NYM|Outfielder|72|187|21.9|120-01 Roosevelt Avenue|Corona, NY 11368
+Alay Soler|NYM|Starting Pitcher|73|240|27.39|120-01 Roosevelt Avenue|Corona, NY 11368
+Mike Pelfrey|NYM|Starting Pitcher|79|190|23.13|120-01 Roosevelt Avenue|Corona, NY 11368
+Pedro Martinez|NYM|Starting Pitcher|71|180|35.35|120-01 Roosevelt Avenue|Corona, NY 11368
+Tom Glavine|NYM|Starting Pitcher|72|185|40.93|120-01 Roosevelt Avenue|Corona, NY 11368
+Chan Ho Park|NYM|Starting Pitcher|74|210|33.67|120-01 Roosevelt Avenue|Corona, NY 11368
+Orlando Hernandez|NYM|Starting Pitcher|74|220|37.39|120-01 Roosevelt Avenue|Corona, NY 11368
+Dave Williams|NYM|Starting Pitcher|74|219|27.97|120-01 Roosevelt Avenue|Corona, NY 11368
+Oliver Perez|NYM|Starting Pitcher|72|190|25.54|120-01 Roosevelt Avenue|Corona, NY 11368
+John Maine|NYM|Starting Pitcher|76|193|25.81|120-01 Roosevelt Avenue|Corona, NY 11368
+Marcos Carvajal|NYM|Relief Pitcher|76|175|22.53|120-01 Roosevelt Avenue|Corona, NY 11368
+Ambiorix Burgos|NYM|Relief Pitcher|72|180|22.86|120-01 Roosevelt Avenue|Corona, NY 11368
+Jason Vargas|NYM|Relief Pitcher|72|215|24.07|120-01 Roosevelt Avenue|Corona, NY 11368
+Jon Adkins|NYM|Relief Pitcher|71|210|29.5|120-01 Roosevelt Avenue|Corona, NY 11368
+Juan Padilla|NYM|Relief Pitcher|72|200|30.03|120-01 Roosevelt Avenue|Corona, NY 11368
+Duaner Sanchez|NYM|Relief Pitcher|72|190|27.38|120-01 Roosevelt Avenue|Corona, NY 11368
+Pedro Feliciano|NYM|Relief Pitcher|70|185|30.51|120-01 Roosevelt Avenue|Corona, NY 11368
+Aaron Heilman|NYM|Relief Pitcher|77|220|28.3|120-01 Roosevelt Avenue|Corona, NY 11368
+Jorge Sosa|NYM|Relief Pitcher|74|170|29.84|120-01 Roosevelt Avenue|Corona, NY 11368
+Scott Schoeneweis|NYM|Relief Pitcher|72|195|33.41|120-01 Roosevelt Avenue|Corona, NY 11368
+Guillermo Mota|NYM|Relief Pitcher|76|205|33.6|120-01 Roosevelt Avenue|Corona, NY 11368
+Billy Wagner|NYM|Relief Pitcher|71|195|35.6|120-01 Roosevelt Avenue|Corona, NY 11368
+Philip Humber|NYM|Relief Pitcher|76|210|24.19|120-01 Roosevelt Avenue|Corona, NY 11368
+Brad Ausmus|HOU|Catcher|71|190|37.88|501 Crawford Street|Houston, TX 77002
+Humberto Quintero|HOU|Catcher|73|190|27.56|501 Crawford Street|Houston, TX 77002
+Hector Gimenez|HOU|Catcher|70|180|24.42|501 Crawford Street|Houston, TX 77002
+Lance Berkman|HOU|First Baseman|73|220|31.05|501 Crawford Street|Houston, TX 77002
+Mike Lamb|HOU|First Baseman|73|190|31.56|501 Crawford Street|Houston, TX 77002
+Mark Loretta|HOU|Second Baseman|72|186|35.55|501 Crawford Street|Houston, TX 77002
+Craig Biggio|HOU|Second Baseman|71|185|41.21|501 Crawford Street|Houston, TX 77002
+Brooks Conrad|HOU|Second Baseman|71|190|27.12|501 Crawford Street|Houston, TX 77002
+Chris Burke|HOU|Second Baseman|71|180|26.97|501 Crawford Street|Houston, TX 77002
+Eric Bruntlett|HOU|Second Baseman|72|190|28.92|501 Crawford Street|Houston, TX 77002
+Adam Everett|HOU|Shortstop|72|170|30.06|501 Crawford Street|Houston, TX 77002
+Morgan Ensberg|HOU|Third Baseman|74|210|31.51|501 Crawford Street|Houston, TX 77002
+Carlos Lee|HOU|Outfielder|74|240|30.69|501 Crawford Street|Houston, TX 77002
+Jason Lane|HOU|Outfielder|74|220|30.19|501 Crawford Street|Houston, TX 77002
+Orlando Palmeiro|HOU|Outfielder|71|180|38.11|501 Crawford Street|Houston, TX 77002
+Luke Scott|HOU|Outfielder|72|210|28.68|501 Crawford Street|Houston, TX 77002
+Charlton Jimerson|HOU|Outfielder|75|210|27.44|501 Crawford Street|Houston, TX 77002
+Fernando Nieve|HOU|Starting Pitcher|72|195|24.63|501 Crawford Street|Houston, TX 77002
+Wandy Rodriguez|HOU|Starting Pitcher|71|160|28.11|501 Crawford Street|Houston, TX 77002
+Brandon Backe|HOU|Starting Pitcher|72|180|28.9|501 Crawford Street|Houston, TX 77002
+Matt Albers|HOU|Starting Pitcher|72|205|24.11|501 Crawford Street|Houston, TX 77002
+Woody Williams|HOU|Starting Pitcher|72|200|40.53|501 Crawford Street|Houston, TX 77002
+Roy Oswalt|HOU|Starting Pitcher|72|185|29.5|501 Crawford Street|Houston, TX 77002
+Jason Jennings|HOU|Starting Pitcher|74|245|28.62|501 Crawford Street|Houston, TX 77002
+Miguel Asencio|HOU|Relief Pitcher|74|190|26.42|501 Crawford Street|Houston, TX 77002
+Brad Lidge|HOU|Relief Pitcher|77|210|30.18|501 Crawford Street|Houston, TX 77002
+Trever Miller|HOU|Relief Pitcher|75|200|33.75|501 Crawford Street|Houston, TX 77002
+David Borkowski|HOU|Relief Pitcher|73|200|30.06|501 Crawford Street|Houston, TX 77002
+Dan Wheeler|HOU|Relief Pitcher|75|222|29.22|501 Crawford Street|Houston, TX 77002
+Paul Estrada|HOU|Relief Pitcher|73|215|24.47|501 Crawford Street|Houston, TX 77002
+Lincoln Holdzkom|HOU|Relief Pitcher|76|240|24.94|501 Crawford Street|Houston, TX 77002
+Chris Sampson|HOU|Relief Pitcher|72|170|28.77|501 Crawford Street|Houston, TX 77002
+Chad Qualls|HOU|Relief Pitcher|77|220|28.54|501 Crawford Street|Houston, TX 77002
+Ezequiel Astacio|HOU|Relief Pitcher|75|156|27.32|501 Crawford Street|Houston, TX 77002
+Mike Lieberthal|LA|Catcher|72|190|35.12|1000 Vin Scully Avenue|Los Angeles, CA 90012
+Russell Martin|LA|Catcher|71|202|24.04|1000 Vin Scully Avenue|Los Angeles, CA 90012
+Olmedo Saenz|LA|First Baseman|71|221|36.39|1000 Vin Scully Avenue|Los Angeles, CA 90012
+James Loney|LA|First Baseman|75|200|22.81|1000 Vin Scully Avenue|Los Angeles, CA 90012
+Nomar Garciaparra|LA|First Baseman|72|190|33.6|1000 Vin Scully Avenue|Los Angeles, CA 90012
+Jeff Kent|LA|Second Baseman|73|210|38.98|1000 Vin Scully Avenue|Los Angeles, CA 90012
+Ramon Martinez|LA|Second Baseman|73|190|34.39|1000 Vin Scully Avenue|Los Angeles, CA 90012
+Marlon Anderson|LA|Second Baseman|71|200|33.15|1000 Vin Scully Avenue|Los Angeles, CA 90012
+Rafael Furcal|LA|Shortstop|70|165|29.35|1000 Vin Scully Avenue|Los Angeles, CA 90012
+Wilson Betemit|LA|Third Baseman|75|190|26.59|1000 Vin Scully Avenue|Los Angeles, CA 90012
+Andy LaRoche|LA|Third Baseman|71|185|23.46|1000 Vin Scully Avenue|Los Angeles, CA 90012
+Matt Kemp|LA|Outfielder|76|230|22.43|1000 Vin Scully Avenue|Los Angeles, CA 90012
+Andre Ethier|LA|Outfielder|73|208|24.89|1000 Vin Scully Avenue|Los Angeles, CA 90012
+Delwyn Young|LA|Outfielder|68|209|24.67|1000 Vin Scully Avenue|Los Angeles, CA 90012
+Jason Repko|LA|Outfielder|71|175|26.17|1000 Vin Scully Avenue|Los Angeles, CA 90012
+Juan Pierre|LA|Outfielder|72|180|29.54|1000 Vin Scully Avenue|Los Angeles, CA 90012
+Luis Gonzalez|LA|Outfielder|74|200|39.49|1000 Vin Scully Avenue|Los Angeles, CA 90012
+Jason Schmidt|LA|Starting Pitcher|77|205|34.08|1000 Vin Scully Avenue|Los Angeles, CA 90012
+Randy Wolf|LA|Starting Pitcher|72|200|30.52|1000 Vin Scully Avenue|Los Angeles, CA 90012
+Brad Penny|LA|Starting Pitcher|76|250|28.77|1000 Vin Scully Avenue|Los Angeles, CA 90012
+Derek Lowe|LA|Starting Pitcher|78|210|33.75|1000 Vin Scully Avenue|Los Angeles, CA 90012
+Mark Hendrickson|LA|Starting Pitcher|81|230|32.69|1000 Vin Scully Avenue|Los Angeles, CA 90012
+Chad Billingsley|LA|Starting Pitcher|72|244|22.59|1000 Vin Scully Avenue|Los Angeles, CA 90012
+Takashi Saito|LA|Relief Pitcher|73|202|37.04|1000 Vin Scully Avenue|Los Angeles, CA 90012
+Jonathan Broxton|LA|Relief Pitcher|76|240|22.7|1000 Vin Scully Avenue|Los Angeles, CA 90012
+Hong-Chih Kuo|LA|Relief Pitcher|72|200|25.6|1000 Vin Scully Avenue|Los Angeles, CA 90012
+Eric Stults|LA|Relief Pitcher|72|215|27.23|1000 Vin Scully Avenue|Los Angeles, CA 90012
+Chin-Hui Tsao|LA|Relief Pitcher|74|177|25.74|1000 Vin Scully Avenue|Los Angeles, CA 90012
+Tim Hamulack|LA|Relief Pitcher|76|210|30.29|1000 Vin Scully Avenue|Los Angeles, CA 90012
+Yhency Brazoban|LA|Relief Pitcher|73|170|26.72|1000 Vin Scully Avenue|Los Angeles, CA 90012
+Brett Tomko|LA|Relief Pitcher|76|215|33.9|1000 Vin Scully Avenue|Los Angeles, CA 90012
+Joe Beimel|LA|Relief Pitcher|75|217|29.86|1000 Vin Scully Avenue|Los Angeles, CA 90012
+Elmer Dessens|LA|Relief Pitcher|70|198|36.13|1000 Vin Scully Avenue|Los Angeles, CA 90012
+Ryan Budde|PHI|Catcher|71|200|27.54|One Citizens Bank Way|Philadelphia, PA 19148
+Rod Barajas|PHI|Catcher|74|220|31.49|One Citizens Bank Way|Philadelphia, PA 19148
+Carlos Ruiz|PHI|Catcher|72|170|28.1|One Citizens Bank Way|Philadelphia, PA 19148
+Chris Coste|PHI|Catcher|73|200|34.07|One Citizens Bank Way|Philadelphia, PA 19148
+Ryan Howard|PHI|First Baseman|76|230|27.28|One Citizens Bank Way|Philadelphia, PA 19148
+Wes Helms|PHI|First Baseman|76|231|30.8|One Citizens Bank Way|Philadelphia, PA 19148
+Chase Utley|PHI|Second Baseman|73|183|28.2|One Citizens Bank Way|Philadelphia, PA 19148
+Danny Sandoval|PHI|Second Baseman|71|192|27.9|One Citizens Bank Way|Philadelphia, PA 19148
+Jimmy Rollins|PHI|Shortstop|68|167|28.26|One Citizens Bank Way|Philadelphia, PA 19148
+Abraham Nu?ez|PHI|Third Baseman|71|190|30.96|One Citizens Bank Way|Philadelphia, PA 19148
+Michael Bourn|PHI|Outfielder|71|180|24.18|One Citizens Bank Way|Philadelphia, PA 19148
+Chris Roberson|PHI|Outfielder|74|180|27.52|One Citizens Bank Way|Philadelphia, PA 19148
+Jayson Werth|PHI|Outfielder|77|215|27.78|One Citizens Bank Way|Philadelphia, PA 19148
+Shane Victorino|PHI|Outfielder|69|160|26.25|One Citizens Bank Way|Philadelphia, PA 19148
+Aaron Rowand|PHI|Outfielder|72|205|29.5|One Citizens Bank Way|Philadelphia, PA 19148
+Pat Burrell|PHI|Outfielder|76|223|30.39|One Citizens Bank Way|Philadelphia, PA 19148
+Greg Dobbs|PHI|Designated Hitter|73|205|28.66|One Citizens Bank Way|Philadelphia, PA 19148
+Cole Hamels|PHI|Starting Pitcher|75|175|23.18|One Citizens Bank Way|Philadelphia, PA 19148
+Alfredo Simon|PHI|Starting Pitcher|76|170|25.81|One Citizens Bank Way|Philadelphia, PA 19148
+Scott Mathieson|PHI|Starting Pitcher|75|190|23.01|One Citizens Bank Way|Philadelphia, PA 19148
+Freddy Garcia|PHI|Starting Pitcher|76|240|31.72|One Citizens Bank Way|Philadelphia, PA 19148
+Jamie Moyer|PHI|Starting Pitcher|72|175|44.28|One Citizens Bank Way|Philadelphia, PA 19148
+Jon Lieber|PHI|Starting Pitcher|74|230|36.91|One Citizens Bank Way|Philadelphia, PA 19148
+Brett Myers|PHI|Starting Pitcher|76|223|26.54|One Citizens Bank Way|Philadelphia, PA 19148
+Adam Eaton|PHI|Starting Pitcher|74|196|29.27|One Citizens Bank Way|Philadelphia, PA 19148
+Geoff Geary|PHI|Relief Pitcher|72|167|30.51|One Citizens Bank Way|Philadelphia, PA 19148
+Clay Condrey|PHI|Relief Pitcher|75|195|31.28|One Citizens Bank Way|Philadelphia, PA 19148
+Ryan Madson|PHI|Relief Pitcher|78|190|26.51|One Citizens Bank Way|Philadelphia, PA 19148
+Antonio Alfonseca|PHI|Relief Pitcher|77|250|34.87|One Citizens Bank Way|Philadelphia, PA 19148
+Tom Gordon|PHI|Relief Pitcher|70|190|39.28|One Citizens Bank Way|Philadelphia, PA 19148
+Brian Sanches|PHI|Relief Pitcher|72|190|28.56|One Citizens Bank Way|Philadelphia, PA 19148
+Jim Ed Warden|PHI|Relief Pitcher|79|190|27.82|One Citizens Bank Way|Philadelphia, PA 19148
+Anderson Garcia|PHI|Relief Pitcher|74|170|25.94|One Citizens Bank Way|Philadelphia, PA 19148
+Eude Brito|PHI|Relief Pitcher|71|160|28.53|One Citizens Bank Way|Philadelphia, PA 19148
+Fabio Castro|PHI|Relief Pitcher|68|150|22.11|One Citizens Bank Way|Philadelphia, PA 19148
+Matt Smith|PHI|Relief Pitcher|77|225|27.71|One Citizens Bank Way|Philadelphia, PA 19148
+Damian Miller|MLW|Catcher|75|220|37.38||
+Johnny Estrada|MLW|Catcher|71|209|30.67||
+Mike Rivera|MLW|Catcher|72|210|30.48||
+J.D. Closser|MLW|Catcher|70|176|27.12||
+Prince Fielder|MLW|First Baseman|72|260|22.81||
+Rickie Weeks|MLW|Second Baseman|72|195|24.46||
+Tony Graffanino|MLW|Second Baseman|73|190|34.73||
+Craig Counsell|MLW|Shortstop|72|184|36.53||
+J.J. Hardy|MLW|Shortstop|74|180|24.53||
+Bill Hall|MLW|Shortstop|72|195|27.17||
+Vinny Rottino|MLW|Third Baseman|72|195|26.9||
+Corey Koskie|MLW|Third Baseman|75|219|33.67||
+Kevin Mench|MLW|Outfielder|72|225|29.14||
+Geoff Jenkins|MLW|Outfielder|73|212|32.61||
+Brady Clark|MLW|Outfielder|74|202|33.87||
+Tony Gwynn Jr.|MLW|Outfielder|72|185|24.41||
+Corey Hart|MLW|Outfielder|78|200|24.94||
+Gabe Gross|MLW|Outfielder|75|209|27.36||
+Laynce Nix|MLW|Outfielder|72|200|26.33||
+Drew Anderson|MLW|Outfielder|74|195|25.72||
+Claudio Vargas|MLW|Starting Pitcher|75|228|28.7||
+Chris Capuano|MLW|Starting Pitcher|75|210|28.53||
+Ben Hendrickson|MLW|Starting Pitcher|76|190|26.07||
+Dave Bush|MLW|Starting Pitcher|74|212|27.31||
+Carlos Villanueva|MLW|Starting Pitcher|74|190|23.26||
+Ben Sheets|MLW|Starting Pitcher|73|218|28.62||
+Jeff Suppan|MLW|Starting Pitcher|74|220|32.16||
+Brian Shouse|MLW|Relief Pitcher|71|190|38.43||
+Francisco Cordero|MLW|Relief Pitcher|74|235|31.81||
+Derrick Turnbow|MLW|Relief Pitcher|75|210|29.1||
+Matt Wise|MLW|Relief Pitcher|76|200|31.28||
+Grant Balfour|MLW|Relief Pitcher|74|188|29.17||
+Dennis Sarfate|MLW|Relief Pitcher|76|210|25.89||
+Jose Capellan|MLW|Relief Pitcher|76|235|26.13||
+Greg Aquino|MLW|Relief Pitcher|73|188|29.13||
+Josh Bard|SD|Catcher|75|215|28.92|100 Park Boulevard|San Diego, CA 92101
+Rob Bowen|SD|Catcher|75|216|26.01|100 Park Boulevard|San Diego, CA 92101
+Adrian Gonzalez|SD|First Baseman|74|220|24.81|100 Park Boulevard|San Diego, CA 92101
+Marcus Giles|SD|Second Baseman|68|180|28.79|100 Park Boulevard|San Diego, CA 92101
+Todd Walker|SD|Second Baseman|72|185|33.77|100 Park Boulevard|San Diego, CA 92101
+Geoff Blum|SD|Shortstop|75|200|33.85|100 Park Boulevard|San Diego, CA 92101
+Khalil Greene|SD|Shortstop|71|210|27.36|100 Park Boulevard|San Diego, CA 92101
+Paul McAnulty|SD|Outfielder|70|220|26.01|100 Park Boulevard|San Diego, CA 92101
+Terrmel Sledge|SD|Outfielder|72|185|29.95|100 Park Boulevard|San Diego, CA 92101
+Jack Cust|SD|Outfielder|73|231|28.12|100 Park Boulevard|San Diego, CA 92101
+Jose Cruz Jr.|SD|Outfielder|72|210|32.87|100 Park Boulevard|San Diego, CA 92101
+Russell Branyan|SD|Outfielder|75|195|31.2|100 Park Boulevard|San Diego, CA 92101
+Mike Cameron|SD|Outfielder|74|200|34.14|100 Park Boulevard|San Diego, CA 92101
+Brian Giles|SD|Outfielder|70|205|36.11|100 Park Boulevard|San Diego, CA 92101
+Kevin Kouzmanoff|SD|Designated Hitter|73|200|25.6|100 Park Boulevard|San Diego, CA 92101
+Mike Thompson|SD|Starting Pitcher|76|200|26.31|100 Park Boulevard|San Diego, CA 92101
+Clay Hensley|SD|Starting Pitcher|71|190|27.5|100 Park Boulevard|San Diego, CA 92101
+Chris Young|SD|Starting Pitcher|82|250|27.77|100 Park Boulevard|San Diego, CA 92101
+Greg Maddux|SD|Starting Pitcher|72|185|40.88|100 Park Boulevard|San Diego, CA 92101
+Jake Peavy|SD|Starting Pitcher|73|180|25.75|100 Park Boulevard|San Diego, CA 92101
+Scott Cassidy|SD|Relief Pitcher|74|170|31.41|100 Park Boulevard|San Diego, CA 92101
+Scott Strickland|SD|Relief Pitcher|71|180|30.84|100 Park Boulevard|San Diego, CA 92101
+Scott Linebrink|SD|Relief Pitcher|75|208|30.57|100 Park Boulevard|San Diego, CA 92101
+Doug Brocail|SD|Relief Pitcher|77|235|39.79|100 Park Boulevard|San Diego, CA 92101
+Trevor Hoffman|SD|Relief Pitcher|72|215|39.38|100 Park Boulevard|San Diego, CA 92101
+Heath Bell|SD|Relief Pitcher|74|244|29.42|100 Park Boulevard|San Diego, CA 92101
+Royce Ring|SD|Relief Pitcher|72|220|26.19|100 Park Boulevard|San Diego, CA 92101
+Cla Meredith|SD|Relief Pitcher|73|185|23.74|100 Park Boulevard|San Diego, CA 92101
+Andrew Brown|SD|Relief Pitcher|78|230|26.03|100 Park Boulevard|San Diego, CA 92101
+Mike Adams|SD|Relief Pitcher|77|190|28.59|100 Park Boulevard|San Diego, CA 92101
+Justin Hampson|SD|Relief Pitcher|73|200|26.77|100 Park Boulevard|San Diego, CA 92101
+Kevin Cameron|SD|Relief Pitcher|73|180|27.21|100 Park Boulevard|San Diego, CA 92101
+Ryan Ketchner|SD|Relief Pitcher|73|190|24.87|100 Park Boulevard|San Diego, CA 92101
+Brian Schneider|WAS|Catcher|73|196|30.26||
+Jesus Flores|WAS|Catcher|73|180|22.34||
+Larry Broadway|WAS|First Baseman|76|230|26.2||
+Nick Johnson|WAS|First Baseman|75|224|28.45||
+Bernie Castro|WAS|Second Baseman|70|160|27.63||
+Josh Wilson|WAS|Shortstop|73|178|25.93||
+Cristian Guzman|WAS|Shortstop|72|205|28.94||
+Felipe Lopez|WAS|Shortstop|73|185|26.8||
+Ryan Zimmerman|WAS|Third Baseman|75|210|22.42||
+Nook Logan|WAS|Outfielder|74|180|27.26||
+Ryan Church|WAS|Outfielder|73|190|28.38||
+Kory Casto|WAS|Outfielder|73|200|25.23||
+Mike Restovich|WAS|Outfielder|76|257|28.16||
+Alex Escobar|WAS|Outfielder|73|190|28.48||
+Austin Kearns|WAS|Outfielder|75|220|26.78||
+Chris Snelling|WAS|Outfielder|70|165|25.24||
+Billy Traber|WAS|Starting Pitcher|77|205|27.45||
+Tim Redding|WAS|Starting Pitcher|72|200|29.05||
+John Patterson|WAS|Starting Pitcher|77|208|29.08||
+Shawn Hill|WAS|Starting Pitcher|74|185|25.84||
+Joel Hanrahan|WAS|Starting Pitcher|75|215|25.4||
+Mike O'Connor|WAS|Starting Pitcher|75|170|26.54||
+Emiliano Fruto|WAS|Relief Pitcher|75|235|22.73||
+Chris Schroder|WAS|Relief Pitcher|75|210|28.53||
+Brett Campbell|WAS|Relief Pitcher|72|170|25.37||
+Beltran Perez|WAS|Relief Pitcher|74|180|25.35||
+Levale Speigner|WAS|Relief Pitcher|71|170|26.43||
+Jason Bergmann|WAS|Relief Pitcher|76|190|25.43||
+Saul Rivera|WAS|Relief Pitcher|71|150|29.23||
+Chris Booker|WAS|Relief Pitcher|75|230|30.22||
+Micah Bowie|WAS|Relief Pitcher|76|203|32.3||
+Jon Rauch|WAS|Relief Pitcher|83|260|28.42||
+Jerome Williams|WAS|Relief Pitcher|75|246|25.24||
+Luis Ayala|WAS|Relief Pitcher|74|186|29.13||
+Ryan Wagner|WAS|Relief Pitcher|76|210|24.63||
+Chad Cordero|WAS|Relief Pitcher|72|198|24.95||
+Humberto Cota|PIT|Catcher|72|210|28.06|115 Federal Street|Pittsburgh, PA 15212
+Ronny Paulino|PIT|Catcher|75|215|25.86|115 Federal Street|Pittsburgh, PA 15212
+Adam LaRoche|PIT|First Baseman|75|180|27.32|115 Federal Street|Pittsburgh, PA 15212
+Ryan Doumit|PIT|First Baseman|72|200|25.91|115 Federal Street|Pittsburgh, PA 15212
+Brad Eldred|PIT|First Baseman|77|245|26.63|115 Federal Street|Pittsburgh, PA 15212
+Jose Castillo|PIT|Second Baseman|73|200|25.95|115 Federal Street|Pittsburgh, PA 15212
+Jack Wilson|PIT|Shortstop|72|192|29.17|115 Federal Street|Pittsburgh, PA 15212
+Freddy Sanchez|PIT|Third Baseman|70|192|29.19|115 Federal Street|Pittsburgh, PA 15212
+Jason Bay|PIT|Outfielder|74|200|28.44|115 Federal Street|Pittsburgh, PA 15212
+Jose Bautista|PIT|Outfielder|72|192|26.36|115 Federal Street|Pittsburgh, PA 15212
+Xavier Nady|PIT|Outfielder|74|205|28.29|115 Federal Street|Pittsburgh, PA 15212
+Jody Gerut|PIT|Outfielder|72|190|29.45|115 Federal Street|Pittsburgh, PA 15212
+Nate McLouth|PIT|Outfielder|71|186|25.34|115 Federal Street|Pittsburgh, PA 15212
+Chris Duffy|PIT|Outfielder|70|170|26.86|115 Federal Street|Pittsburgh, PA 15212
+Rajai Davis|PIT|Outfielder|71|197|26.36|115 Federal Street|Pittsburgh, PA 15212
+Shane Youman|PIT|Starting Pitcher|76|219|27.39|115 Federal Street|Pittsburgh, PA 15212
+Yoslan Herrera|PIT|Starting Pitcher|74|200|25.84|115 Federal Street|Pittsburgh, PA 15212
+Josh Shortslef|PIT|Starting Pitcher|76|220|25.08|115 Federal Street|Pittsburgh, PA 15212
+Zach Duke|PIT|Starting Pitcher|74|207|23.87|115 Federal Street|Pittsburgh, PA 15212
+Paul Maholm|PIT|Starting Pitcher|74|225|24.68|115 Federal Street|Pittsburgh, PA 15212
+Tom Gorzelanny|PIT|Starting Pitcher|74|207|24.64|115 Federal Street|Pittsburgh, PA 15212
+Shawn Chacon|PIT|Starting Pitcher|75|212|29.19|115 Federal Street|Pittsburgh, PA 15212
+Tony Armas Jr.|PIT|Starting Pitcher|75|225|28.84|115 Federal Street|Pittsburgh, PA 15212
+Ian Snell|PIT|Starting Pitcher|71|170|25.33|115 Federal Street|Pittsburgh, PA 15212
+Sean Burnett|PIT|Starting Pitcher|71|190|24.45|115 Federal Street|Pittsburgh, PA 15212
+John Grabow|PIT|Relief Pitcher|74|210|28.32|115 Federal Street|Pittsburgh, PA 15212
+Marty McLeary|PIT|Relief Pitcher|77|230|32.34|115 Federal Street|Pittsburgh, PA 15212
+Salomon Torres|PIT|Relief Pitcher|71|210|34.97|115 Federal Street|Pittsburgh, PA 15212
+Damaso Marte|PIT|Relief Pitcher|74|200|32.04|115 Federal Street|Pittsburgh, PA 15212
+Matt Capps|PIT|Relief Pitcher|75|238|23.49|115 Federal Street|Pittsburgh, PA 15212
+Josh Sharpless|PIT|Relief Pitcher|77|234|26.09|115 Federal Street|Pittsburgh, PA 15212
+Bryan Bullington|PIT|Relief Pitcher|76|222|26.41|115 Federal Street|Pittsburgh, PA 15212
+Jonah Bayliss|PIT|Relief Pitcher|74|200|26.55|115 Federal Street|Pittsburgh, PA 15212
+Brian Rogers|PIT|Relief Pitcher|76|190|24.62|115 Federal Street|Pittsburgh, PA 15212
+Juan Perez|PIT|Relief Pitcher|72|170|28.49|115 Federal Street|Pittsburgh, PA 15212
+Bengie Molina|SF|Catcher|71|220|32.61|24 Willie Mays Plaza|San Francisco, CA 94107
+Eliezer Alfonzo|SF|Catcher|72|223|28.06|24 Willie Mays Plaza|San Francisco, CA 94107
+Lance Niekro|SF|First Baseman|75|210|28.08|24 Willie Mays Plaza|San Francisco, CA 94107
+Mark Sweeney|SF|First Baseman|73|215|37.34|24 Willie Mays Plaza|San Francisco, CA 94107
+Ray Durham|SF|Second Baseman|68|196|35.25|24 Willie Mays Plaza|San Francisco, CA 94107
+Kevin Frandsen|SF|Second Baseman|72|175|24.77|24 Willie Mays Plaza|San Francisco, CA 94107
+Omar Vizquel|SF|Shortstop|69|175|39.85|24 Willie Mays Plaza|San Francisco, CA 94107
+Rich Aurilia|SF|Third Baseman|73|189|35.49|24 Willie Mays Plaza|San Francisco, CA 94107
+Pedro Feliz|SF|Third Baseman|73|205|31.84|24 Willie Mays Plaza|San Francisco, CA 94107
+Todd Linden|SF|Outfielder|75|210|26.67|24 Willie Mays Plaza|San Francisco, CA 94107
+Dave Roberts|SF|Outfielder|70|180|34.75|24 Willie Mays Plaza|San Francisco, CA 94107
+Jason Ellison|SF|Outfielder|70|180|28.91|24 Willie Mays Plaza|San Francisco, CA 94107
+Randy Winn|SF|Outfielder|74|197|32.73|24 Willie Mays Plaza|San Francisco, CA 94107
+Ryan Klesko|SF|Outfielder|75|220|35.72|24 Willie Mays Plaza|San Francisco, CA 94107
+Barry Bonds|SF|Outfielder|74|228|42.6|24 Willie Mays Plaza|San Francisco, CA 94107
+Fred Lewis|SF|Outfielder|74|190|26.22|24 Willie Mays Plaza|San Francisco, CA 94107
+Kelyn Acosta|SF|Starting Pitcher|73|204|21.85|24 Willie Mays Plaza|San Francisco, CA 94107
+Jonathan Sanchez|SF|Starting Pitcher|74|165|24.28|24 Willie Mays Plaza|San Francisco, CA 94107
+Matt Cain|SF|Starting Pitcher|75|216|22.41|24 Willie Mays Plaza|San Francisco, CA 94107
+Matt Morris|SF|Starting Pitcher|77|220|32.56|24 Willie Mays Plaza|San Francisco, CA 94107
+Russ Ortiz|SF|Starting Pitcher|73|208|32.74|24 Willie Mays Plaza|San Francisco, CA 94107
+Noah Lowry|SF|Starting Pitcher|74|210|26.39|24 Willie Mays Plaza|San Francisco, CA 94107
+Barry Zito|SF|Starting Pitcher|76|215|28.8|24 Willie Mays Plaza|San Francisco, CA 94107
+Vinnie Chulk|SF|Relief Pitcher|74|195|28.2|24 Willie Mays Plaza|San Francisco, CA 94107
+Kevin Correia|SF|Relief Pitcher|75|200|26.52|24 Willie Mays Plaza|San Francisco, CA 94107
+Steve Kline|SF|Relief Pitcher|73|215|34.52|24 Willie Mays Plaza|San Francisco, CA 94107
+Armando Benitez|SF|Relief Pitcher|76|229|34.32|24 Willie Mays Plaza|San Francisco, CA 94107
+Scott Munter|SF|Relief Pitcher|78|240|26.98|24 Willie Mays Plaza|San Francisco, CA 94107
+Jack Taschner|SF|Relief Pitcher|75|207|28.86|24 Willie Mays Plaza|San Francisco, CA 94107
+Brian Wilson|SF|Relief Pitcher|73|205|24.96|24 Willie Mays Plaza|San Francisco, CA 94107
+Merkin Valdez|SF|Relief Pitcher|77|208|25.3|24 Willie Mays Plaza|San Francisco, CA 94107
+Brad Hennessey|SF|Relief Pitcher|74|185|27.06|24 Willie Mays Plaza|San Francisco, CA 94107
+Billy Sadler|SF|Relief Pitcher|72|190|25.44|24 Willie Mays Plaza|San Francisco, CA 94107
+Pat Misch|SF|Relief Pitcher|74|170|25.53|24 Willie Mays Plaza|San Francisco, CA 94107
+Gary Bennett|STL|Catcher|72|208|34.87|700 Clark Street|St. Louis, MO 63102
+Yadier Molina|STL|Catcher|71|225|24.63|700 Clark Street|St. Louis, MO 63102
+John Nelson|STL|First Baseman|73|190|27.99|700 Clark Street|St. Louis, MO 63102
+Albert Pujols|STL|First Baseman|75|225|27.12|700 Clark Street|St. Louis, MO 63102
+Adam Kennedy|STL|Second Baseman|73|185|31.14|700 Clark Street|St. Louis, MO 63102
+Aaron Miles|STL|Second Baseman|67|180|30.21|700 Clark Street|St. Louis, MO 63102
+David Eckstein|STL|Shortstop|67|165|32.11|700 Clark Street|St. Louis, MO 63102
+Scott Rolen|STL|Third Baseman|76|240|31.91|700 Clark Street|St. Louis, MO 63102
+Scott Spiezio|STL|Third Baseman|74|220|34.44|700 Clark Street|St. Louis, MO 63102
+Jim Edmonds|STL|Outfielder|73|212|36.68|700 Clark Street|St. Louis, MO 63102
+So Taguchi|STL|Outfielder|70|163|37.66|700 Clark Street|St. Louis, MO 63102
+Juan Encarnacion|STL|Outfielder|75|215|30.98|700 Clark Street|St. Louis, MO 63102
+Skip Schumaker|STL|Outfielder|70|175|27.07|700 Clark Street|St. Louis, MO 63102
+John Rodriguez|STL|Outfielder|72|205|29.11|700 Clark Street|St. Louis, MO 63102
+Chris Duncan|STL|Outfielder|77|210|25.82|700 Clark Street|St. Louis, MO 63102
+Adam Wainwright|STL|Starting Pitcher|79|205|25.5|700 Clark Street|St. Louis, MO 63102
+Mark Mulder|STL|Starting Pitcher|78|208|29.57|700 Clark Street|St. Louis, MO 63102
+Anthony Reyes|STL|Starting Pitcher|74|215|25.37|700 Clark Street|St. Louis, MO 63102
+Ryan Franklin|STL|Starting Pitcher|75|180|33.99|700 Clark Street|St. Louis, MO 63102
+Kip Wells|STL|Starting Pitcher|75|200|29.86|700 Clark Street|St. Louis, MO 63102
+Chris Carpenter|STL|Starting Pitcher|78|230|31.84|700 Clark Street|St. Louis, MO 63102
+Russ Springer|STL|Relief Pitcher|76|211|38.31|700 Clark Street|St. Louis, MO 63102
+Jason Isringhausen|STL|Relief Pitcher|75|230|34.48|700 Clark Street|St. Louis, MO 63102
+Ricardo Rincon|STL|Relief Pitcher|69|190|36.88|700 Clark Street|St. Louis, MO 63102
+Braden Looper|STL|Relief Pitcher|75|220|32.34|700 Clark Street|St. Louis, MO 63102
+Randy Flores|STL|Relief Pitcher|72|180|31.58|700 Clark Street|St. Louis, MO 63102
+Josh Hancock|STL|Relief Pitcher|75|205|28.89|700 Clark Street|St. Louis, MO 63102
+Brad Thompson|STL|Relief Pitcher|73|190|25.08|700 Clark Street|St. Louis, MO 63102
+Tyler Johnson|STL|Relief Pitcher|74|180|25.73|700 Clark Street|St. Louis, MO 63102
+Chris Narveson|STL|Relief Pitcher|75|205|25.19|700 Clark Street|St. Louis, MO 63102
+Randy Keisler|STL|Relief Pitcher|75|190|31.01|700 Clark Street|St. Louis, MO 63102
+Josh Kinney|STL|Relief Pitcher|73|195|27.92|700 Clark Street|St. Louis, MO 63102
+|||||||
